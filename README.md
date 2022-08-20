@@ -4,16 +4,16 @@
 
 ## Table of Contents
 
+*   [Vim script](#vim-script)
+*   [Emacs Lisp](#emacs-lisp)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [CSS](#css)
-*   [Emacs Lisp](#emacs-lisp)
 *   [Makefile](#makefile)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Solidity](#solidity)
 *   [Python](#python)
-*   [Vim script](#vim-script)
 *   [Java](#java)
 *   [Smarty](#smarty)
 *   [TypeScript](#typescript)
@@ -23,6 +23,30 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C](#c)
 *   [Thanks](#thanks)
+
+## Vim script
+
+*   [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - 该仓库用于备份我的dotfiles，主要开发语言Golang，脚本lua，bash shell等...
+
+*   [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) -  Vim configuration in the 21st century
+
+## Emacs Lisp
+
+*   [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
+
+*   [404cn/eatemacs](https://github.com/404cn/eatemacs) - Just my own emacs config, and it is delicious.
+
+*   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot (now for anything that uses eldoc)
+
+*   [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Fastest LSP client for Emacs
+
+*   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
+
+*   [lryong/emacs-golang-conf](https://github.com/lryong/emacs-golang-conf) - Emacs configuration suitable for golang development
+
+*   [bastibe/org-static-blog](https://github.com/bastibe/org-static-blog) - A static site generator using org-mode
+
+*   [manateelazycat/awesome-pair](https://github.com/manateelazycat/awesome-pair) - Auto parenthesis pairing with syntax table
 
 ## miscellaneous
 
@@ -104,18 +128,6 @@
 
 *   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 
-## Emacs Lisp
-
-*   [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Fastest LSP client for Emacs
-
-*   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
-
-*   [lryong/emacs-golang-conf](https://github.com/lryong/emacs-golang-conf) - Emacs configuration suitable for golang development
-
-*   [bastibe/org-static-blog](https://github.com/bastibe/org-static-blog) - A static site generator using org-mode
-
-*   [manateelazycat/awesome-pair](https://github.com/manateelazycat/awesome-pair) - Auto parenthesis pairing with syntax table
-
 ## Makefile
 
 *   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -143,10 +155,6 @@
 ## Python
 
 *   [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
-
-## Vim script
-
-*   [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) -  Vim configuration in the 21st century
 
 ## Java
 
