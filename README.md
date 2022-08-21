@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Vim script](#vim-script)
 *   [Emacs Lisp](#emacs-lisp)
+*   [Vim script](#vim-script)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [CSS](#css)
@@ -24,13 +24,9 @@
 *   [C](#c)
 *   [Thanks](#thanks)
 
-## Vim script
-
-*   [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - 该仓库用于备份我的dotfiles，主要开发语言Golang，脚本lua，bash shell等...
-
-*   [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) -  Vim configuration in the 21st century
-
 ## Emacs Lisp
+
+*   [bbatsov/emacs.d](https://github.com/bbatsov/emacs.d) - My personal Emacs configuration
 
 *   [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 
@@ -47,6 +43,12 @@
 *   [bastibe/org-static-blog](https://github.com/bastibe/org-static-blog) - A static site generator using org-mode
 
 *   [manateelazycat/awesome-pair](https://github.com/manateelazycat/awesome-pair) - Auto parenthesis pairing with syntax table
+
+## Vim script
+
+*   [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - 该仓库用于备份我的dotfiles，主要开发语言Golang，脚本lua，bash shell等...
+
+*   [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) -  Vim configuration in the 21st century
 
 ## miscellaneous
 
