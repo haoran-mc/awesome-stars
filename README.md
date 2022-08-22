@@ -26,6 +26,10 @@
 
 ## Emacs Lisp
 
+*   [zhenwenc/.emacs.d](https://github.com/zhenwenc/.emacs.d) -
+
+*   [DogLooksGood/dogEmacs](https://github.com/DogLooksGood/dogEmacs) - personal .emacs.d
+
 *   [bbatsov/emacs.d](https://github.com/bbatsov/emacs.d) - My personal Emacs configuration
 
 *   [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
