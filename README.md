@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Vim script](#vim-script)
 *   [miscellaneous](#miscellaneous)
@@ -17,12 +18,17 @@
 *   [Java](#java)
 *   [Smarty](#smarty)
 *   [TypeScript](#typescript)
-*   [HTML](#html)
 *   [Scheme](#scheme)
 *   [Roff](#roff)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C](#c)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
+
+*   [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 
 ## Emacs Lisp
 
@@ -173,10 +179,6 @@
 ## TypeScript
 
 *   [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-
-## HTML
-
-*   [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 
 ## Scheme
 
