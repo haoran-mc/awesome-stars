@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Vim script](#vim-script)
 *   [Emacs Lisp](#emacs-lisp)
@@ -23,6 +24,10 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [C](#c)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ## miscellaneous
 
