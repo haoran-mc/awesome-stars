@@ -29,6 +29,10 @@
 
 ## Emacs Lisp
 
+*   [emacsfodder/emacs-soothe-theme](https://github.com/emacsfodder/emacs-soothe-theme) - Dark Colorful theme for Emacs, built for synesthesiacs with a taste for Skittles™.
+
+*   [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
+
 *   [loveminimal/emacs.d](https://github.com/loveminimal/emacs.d) - All in emacs.
 
 *   [manateelazycat/awesome-tray](https://github.com/manateelazycat/awesome-tray) - Hide mode-line, display necessary information at right of minibuffer.
