@@ -8,11 +8,11 @@
 *   [Go](#go)
 *   [Vue](#vue)
 *   [CSS](#css)
-*   [Vim script](#vim-script)
+*   [Vim Script](#vim-script)
 *   [Lua](#lua)
+*   [Vim script](#vim-script-1)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
-*   [Vim Script](#vim-script-1)
 *   [HTML](#html)
 *   [Makefile](#makefile)
 *   [JavaScript](#javascript)
@@ -25,7 +25,6 @@
 *   [Scheme](#scheme)
 *   [Roff](#roff)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [C](#c)
 *   [Thanks](#thanks)
 
 ## Emacs Lisp
@@ -136,9 +135,17 @@
 
 *   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 
-## Vim script
+## Vim Script
 
 *   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
+
+*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
+
+## Lua
+
+*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
+
+## Vim script
 
 *   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
 
@@ -149,10 +156,6 @@
 *   [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - 该仓库用于备份我的dotfiles，主要开发语言Golang，脚本lua，bash shell等...
 
 *   [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) -  Vim configuration in the 21st century
-
-## Lua
-
-*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
 
 ## Rust
 
@@ -185,10 +188,6 @@
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 *   [rajasegar/awesome-spacemacs](https://github.com/rajasegar/awesome-spacemacs) - A collection of awesome Spacemacs resources
-
-## Vim Script
-
-*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
 
 ## HTML
 
@@ -247,10 +246,6 @@
 ## Jupyter Notebook
 
 *   [yoyoyo-yo/Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock) - image processing codes to understand algorithm
-
-## C
-
-*   [xqin/gvimfullscreen](https://github.com/xqin/gvimfullscreen) - Put gvim in full screen on Windows
 
 ## Thanks
 
