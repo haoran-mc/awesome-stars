@@ -29,6 +29,10 @@
 
 ## Emacs Lisp
 
+*   [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
+
+*   [manateelazycat/lazycat-emacs](https://github.com/manateelazycat/lazycat-emacs) - Andy Stewart's emacs
+
 *   [manateelazycat/one-key](https://github.com/manateelazycat/one-key) - Many commands share one key.
 
 *   [manateelazycat/lazy-load](https://github.com/manateelazycat/lazy-load) - Lazy load keys for speed ​​up Emacs startup.
