@@ -29,6 +29,14 @@
 
 ## Emacs Lisp
 
+*   [larstvei/Focus](https://github.com/larstvei/Focus) - Dim the font color of text in surrounding paragraphs
+
+*   [casouri/valign](https://github.com/casouri/valign) - Pixel-perfect visual alignment for Org and Markdown tables.
+
+*   [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
+
+*   [howardabrams/dot-files](https://github.com/howardabrams/dot-files) - My Emacs initialization code and standard scripts I use for client and servers alike.
+
 *   [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 
 *   [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
