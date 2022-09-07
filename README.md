@@ -4,14 +4,15 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Emacs Lisp](#emacs-lisp)
+*   [Markdown](#markdown)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [CSS](#css)
 *   [Vim Script](#vim-script)
 *   [Lua](#lua)
 *   [Vim script](#vim-script-1)
-*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Makefile](#makefile)
@@ -27,7 +28,15 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Thanks](#thanks)
 
+## Rust
+
+*   [sloganking/rs-code-visualizer](https://github.com/sloganking/rs-code-visualizer) - Turns your code into one large PNG
+
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+
 ## Emacs Lisp
+
+*   [wandersoncferreira/code-review](https://github.com/wandersoncferreira/code-review) - Code Reviews in Emacs
 
 *   [larstvei/Focus](https://github.com/larstvei/Focus) - Dim the font color of text in surrounding paragraphs
 
@@ -76,6 +85,10 @@
 *   [bastibe/org-static-blog](https://github.com/bastibe/org-static-blog) - A static site generator using org-mode
 
 *   [manateelazycat/awesome-pair](https://github.com/manateelazycat/awesome-pair) - Auto parenthesis pairing with syntax table
+
+## Markdown
+
+*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Go
 
@@ -153,13 +166,13 @@
 
 *   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
 
-*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
-
 *   [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - 该仓库用于备份我的dotfiles，主要开发语言Golang，脚本lua，bash shell等...
 
 ## Lua
 
 *   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
+
+*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
 
 ## Vim script
 
@@ -170,10 +183,6 @@
 *   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 
 *   [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) -  Vim configuration in the 21st century
-
-## Rust
-
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ## miscellaneous
 
