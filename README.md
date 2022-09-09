@@ -30,7 +30,7 @@
 
 ## Rust
 
-*   [sloganking/rs-code-visualizer](https://github.com/sloganking/rs-code-visualizer) - Turns your code into one large PNG
+*   [sloganking/codevis](https://github.com/sloganking/codevis) - Turns your code into one large PNG
 
 *   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
