@@ -4,8 +4,10 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [Emacs Lisp](#emacs-lisp)
+*   [Org](#org)
+*   [miscellaneous](#miscellaneous)
+*   [Rust](#rust)
 *   [Markdown](#markdown)
 *   [Go](#go)
 *   [Vue](#vue)
@@ -13,7 +15,6 @@
 *   [Vim Script](#vim-script)
 *   [Lua](#lua)
 *   [Vim script](#vim-script-1)
-*   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [Makefile](#makefile)
 *   [JavaScript](#javascript)
@@ -24,17 +25,11 @@
 *   [Smarty](#smarty)
 *   [TypeScript](#typescript)
 *   [Scheme](#scheme)
-*   [Roff](#roff)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Thanks](#thanks)
 
-## Rust
-
-*   [sloganking/codevis](https://github.com/sloganking/codevis) - Turns your code into one large PNG
-
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-
 ## Emacs Lisp
+
+*   [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 
 *   [wandersoncferreira/code-review](https://github.com/wandersoncferreira/code-review) - Code Reviews in Emacs
 
@@ -85,6 +80,46 @@
 *   [bastibe/org-static-blog](https://github.com/bastibe/org-static-blog) - A static site generator using org-mode
 
 *   [manateelazycat/awesome-pair](https://github.com/manateelazycat/awesome-pair) - Auto parenthesis pairing with syntax table
+
+## Org
+
+*   [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs. Mirror of https://git.tecosaur.net/tec/emacs-config.
+
+## miscellaneous
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+*   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
+
+*   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
+
+*   [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
+
+*   [KeKe-Li/data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
+
+*   [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
+
+*   [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记
+
+*   [everyx/gobyexample](https://github.com/everyx/gobyexample) - Go by Example 通过例子学 Golang
+
+*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
+
+*   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
+
+*   [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
+
+*   [cyent/golang](https://github.com/cyent/golang) - 关于Go语言学习，包含许多个人理解
+
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+*   [rajasegar/awesome-spacemacs](https://github.com/rajasegar/awesome-spacemacs) - A collection of awesome Spacemacs resources
+
+## Rust
+
+*   [sloganking/codevis](https://github.com/sloganking/codevis) - Turns your code into one large PNG
+
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ## Markdown
 
@@ -184,34 +219,6 @@
 
 *   [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) -  Vim configuration in the 21st century
 
-## miscellaneous
-
-*   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
-
-*   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
-
-*   [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
-
-*   [KeKe-Li/data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
-
-*   [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
-
-*   [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记
-
-*   [everyx/gobyexample](https://github.com/everyx/gobyexample) - Go by Example 通过例子学 Golang
-
-*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
-
-*   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
-
-*   [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
-
-*   [cyent/golang](https://github.com/cyent/golang) - 关于Go语言学习，包含许多个人理解
-
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-
-*   [rajasegar/awesome-spacemacs](https://github.com/rajasegar/awesome-spacemacs) - A collection of awesome Spacemacs resources
-
 ## HTML
 
 *   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
@@ -261,14 +268,6 @@
 ## Scheme
 
 *   [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
-
-## Roff
-
-*   [lydrainbowcat/tedukuri](https://github.com/lydrainbowcat/tedukuri) - 《算法竞赛进阶指南》资源社区
-
-## Jupyter Notebook
-
-*   [yoyoyo-yo/Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock) - image processing codes to understand algorithm
 
 ## Thanks
 
