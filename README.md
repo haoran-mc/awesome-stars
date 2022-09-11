@@ -24,10 +24,13 @@
 *   [Java](#java)
 *   [Smarty](#smarty)
 *   [TypeScript](#typescript)
-*   [Scheme](#scheme)
 *   [Thanks](#thanks)
 
 ## Emacs Lisp
+
+*   [redguardtoo/find-file-in-project](https://github.com/redguardtoo/find-file-in-project) - Quick access to project files in Emacs
+
+*   [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - \[Mirror] Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
 
 *   [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 
@@ -113,11 +116,9 @@
 
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
-*   [rajasegar/awesome-spacemacs](https://github.com/rajasegar/awesome-spacemacs) - A collection of awesome Spacemacs resources
-
 ## Rust
 
-*   [sloganking/codevis](https://github.com/sloganking/codevis) - Turns your code into one large PNG
+*   [sloganking/codevis](https://github.com/sloganking/codevis) - Turns your code into one large image
 
 *   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
@@ -264,10 +265,6 @@
 ## TypeScript
 
 *   [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-
-## Scheme
-
-*   [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
 
 ## Thanks
 
