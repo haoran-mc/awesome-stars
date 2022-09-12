@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [Emacs Lisp](#emacs-lisp)
+*   [Python](#python)
 *   [Org](#org)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
@@ -20,13 +21,22 @@
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Solidity](#solidity)
-*   [Python](#python)
 *   [Java](#java)
-*   [Smarty](#smarty)
-*   [TypeScript](#typescript)
 *   [Thanks](#thanks)
 
 ## Emacs Lisp
+
+*   [abo-abo/hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
+
+*   [emacsfodder/emacs-theme-darktooth](https://github.com/emacsfodder/emacs-theme-darktooth) - Darktooth : From the darkness... it watches.
+
+*   [Lambda-Emacs/lambda-line](https://github.com/Lambda-Emacs/lambda-line) - A configurable status line for Emacs
+
+*   [MatthewZMD/.emacs.d](https://github.com/MatthewZMD/.emacs.d) - M-EMACS, a full-featured GNU Emacs configuration distribution
+
+*   [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
+
+*   [protesilaos/ef-themes](https://github.com/protesilaos/ef-themes) - Colourful and legible themes for GNU Emacs
 
 *   [redguardtoo/find-file-in-project](https://github.com/redguardtoo/find-file-in-project) - Quick access to project files in Emacs
 
@@ -82,7 +92,11 @@
 
 *   [bastibe/org-static-blog](https://github.com/bastibe/org-static-blog) - A static site generator using org-mode
 
-*   [manateelazycat/awesome-pair](https://github.com/manateelazycat/awesome-pair) - Auto parenthesis pairing with syntax table
+## Python
+
+*   [emacs-eaf/eaf-pdf-viewer](https://github.com/emacs-eaf/eaf-pdf-viewer) - Fastest PDF Viewer in Emacs
+
+*   [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
 
 ## Org
 
@@ -113,8 +127,6 @@
 *   [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
 
 *   [cyent/golang](https://github.com/cyent/golang) - 关于Go语言学习，包含许多个人理解
-
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ## Rust
 
@@ -196,8 +208,6 @@
 
 *   [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
 
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-
 ## Vim Script
 
 *   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
@@ -224,8 +234,6 @@
 
 *   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
 
-*   [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
-
 ## Makefile
 
 *   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -235,8 +243,6 @@
 *   [vouv/chat-room](https://github.com/vouv/chat-room) - 使用GO+Vue构建的聊天室网站
 
 *   [nnngu/LearningNotes](https://github.com/nnngu/LearningNotes) - 📚 一些记录~
-
-*   [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 
 ## Shell
 
@@ -250,21 +256,9 @@
 
 *   [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.
 
-## Python
-
-*   [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
-
 ## Java
 
 *   [alexxiyang/shiro-redis](https://github.com/alexxiyang/shiro-redis) - shiro only provide the support of ehcache and concurrentHashMap. Here is an implement of redis cache can be used by shiro. Hope it will help you!
-
-## Smarty
-
-*   [rubyhan1314/Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) - Golang - 100天从新手到大师
-
-## TypeScript
-
-*   [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 
 ## Thanks
 
