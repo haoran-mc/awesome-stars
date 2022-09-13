@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Python](#python)
 *   [Org](#org)
@@ -23,6 +24,10 @@
 *   [Solidity](#solidity)
 *   [Java](#java)
 *   [Thanks](#thanks)
+
+## Dart
+
+*   [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 
 ## Emacs Lisp
 
@@ -205,8 +210,6 @@
 *   [jimmykuu/gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 
 *   [loveminimal/hexo-theme-zero](https://github.com/loveminimal/hexo-theme-zero) - A minimalism hexo theme.
-
-*   [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
 
 ## Vim Script
 
