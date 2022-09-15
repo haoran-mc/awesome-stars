@@ -4,14 +4,16 @@
 
 ## Table of Contents
 
-*   [Dart](#dart)
+*   [Go](#go)
+*   [SCSS](#scss)
 *   [Emacs Lisp](#emacs-lisp)
+*   [miscellaneous](#miscellaneous)
+*   [TypeScript](#typescript)
+*   [Dart](#dart)
 *   [Python](#python)
 *   [Org](#org)
-*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Markdown](#markdown)
-*   [Go](#go)
 *   [Vue](#vue)
 *   [CSS](#css)
 *   [Vim Script](#vim-script)
@@ -22,14 +24,73 @@
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Solidity](#solidity)
-*   [Java](#java)
 *   [Thanks](#thanks)
 
-## Dart
+## Go
 
-*   [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
+*   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
+
+*   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+
+*   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+
+*   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
+
+*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
+
+*   [chalvern/apollo](https://github.com/chalvern/apollo) - 更实用的 Go 开发的社区(论坛)，Better use of Go development community (forum) http://www.jianzhoubian.com
+
+*   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
+
+*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
+
+*   [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
+
+*   [silenceper/pool](https://github.com/silenceper/pool) - 🚌 A golang general network connection poolction pool
+
+*   [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：\[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
+
+*   [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Perform TCP handshake without ACK in Go, useful for health check, that is SYN, SYN-ACK, RST.
+
+*   [kevinyan815/gocookbook](https://github.com/kevinyan815/gocookbook) - go cook book
+
+*   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+
+*   [fatih/pool](https://github.com/fatih/pool) - Connection pool for Go's net.Conn interface
+
+*   [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
+
+*   [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
+
+*   [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
+
+*   [beego/samples](https://github.com/beego/samples) - An open source project for beego sample applications.
+
+*   [hantmac/Mastering\_Go\_ZH\_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，《玩转 GO》。
+
+*   [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
+
+*   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
+
+*   [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记
+
+*   [lu569368/struct](https://github.com/lu569368/struct) -
+
+*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+
+*   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
+
+*   [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) - 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
+
+*   [lifei6671/interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合
+
+## SCSS
+
+*   [loveminimal/hugo-theme-virgo](https://github.com/loveminimal/hugo-theme-virgo) - A simple  and pure theme.
 
 ## Emacs Lisp
+
+*   [joostkremers/writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 
 *   [abo-abo/hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 
@@ -95,19 +156,9 @@
 
 *   [lryong/emacs-golang-conf](https://github.com/lryong/emacs-golang-conf) - Emacs configuration suitable for golang development
 
-*   [bastibe/org-static-blog](https://github.com/bastibe/org-static-blog) - A static site generator using org-mode
-
-## Python
-
-*   [emacs-eaf/eaf-pdf-viewer](https://github.com/emacs-eaf/eaf-pdf-viewer) - Fastest PDF Viewer in Emacs
-
-*   [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
-
-## Org
-
-*   [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs. Mirror of https://git.tecosaur.net/tec/emacs-config.
-
 ## miscellaneous
+
+*   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
 
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
@@ -133,6 +184,24 @@
 
 *   [cyent/golang](https://github.com/cyent/golang) - 关于Go语言学习，包含许多个人理解
 
+## TypeScript
+
+*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+
+## Dart
+
+*   [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
+
+## Python
+
+*   [emacs-eaf/eaf-pdf-viewer](https://github.com/emacs-eaf/eaf-pdf-viewer) - Fastest PDF Viewer in Emacs
+
+*   [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
+
+## Org
+
+*   [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs. Mirror of https://git.tecosaur.net/tec/emacs-config.
+
 ## Rust
 
 *   [sloganking/codevis](https://github.com/sloganking/codevis) - Turns your code into one large image
@@ -142,64 +211,6 @@
 ## Markdown
 
 *   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-
-## Go
-
-*   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-
-*   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
-
-*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
-
-*   [chalvern/apollo](https://github.com/chalvern/apollo) - 更实用的 Go 开发的社区(论坛)，Better use of Go development community (forum) http://www.jianzhoubian.com
-
-*   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
-
-*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
-
-*   [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
-
-*   [silenceper/pool](https://github.com/silenceper/pool) - 🚌 A golang general network connection poolction pool
-
-*   [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：\[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
-
-*   [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Perform TCP handshake without ACK in Go, useful for health check, that is SYN, SYN-ACK, RST.
-
-*   [kevinyan815/gocookbook](https://github.com/kevinyan815/gocookbook) - go cook book
-
-*   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-
-*   [fatih/pool](https://github.com/fatih/pool) - Connection pool for Go's net.Conn interface
-
-*   [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
-
-*   [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
-
-*   [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
-
-*   [beego/samples](https://github.com/beego/samples) - An open source project for beego sample applications.
-
-*   [hantmac/Mastering\_Go\_ZH\_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，《玩转 GO》。
-
-*   [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
-
-*   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
-
-*   [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记
-
-*   [lu569368/struct](https://github.com/lu569368/struct) -
-
-*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-
-*   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
-
-*   [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) - 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
-
-*   [lifei6671/interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合
-
-*   [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
-
-*   [yqchilde/Golang-Interview](https://github.com/yqchilde/Golang-Interview) - Golang面试题，收集自Golang中文网，收集是为了自己可以巩固复习，不必要每次去找
 
 ## Vue
 
@@ -231,8 +242,6 @@
 
 *   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 
-*   [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) -  Vim configuration in the 21st century
-
 ## HTML
 
 *   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
@@ -245,8 +254,6 @@
 
 *   [vouv/chat-room](https://github.com/vouv/chat-room) - 使用GO+Vue构建的聊天室网站
 
-*   [nnngu/LearningNotes](https://github.com/nnngu/LearningNotes) - 📚 一些记录~
-
 ## Shell
 
 *   [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
@@ -258,10 +265,6 @@
 ## Solidity
 
 *   [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.
-
-## Java
-
-*   [alexxiyang/shiro-redis](https://github.com/alexxiyang/shiro-redis) - shiro only provide the support of ehcache and concurrentHashMap. Here is an implement of redis cache can be used by shiro. Hope it will help you!
 
 ## Thanks
 
