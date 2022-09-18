@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Solidity](#solidity)
 *   [Go](#go)
 *   [Emacs Lisp](#emacs-lisp)
 *   [SCSS](#scss)
@@ -23,8 +24,11 @@
 *   [Makefile](#makefile)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
-*   [Solidity](#solidity)
 *   [Thanks](#thanks)
+
+## Solidity
+
+*   [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.
 
 ## Go
 
@@ -261,10 +265,6 @@
 *   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 
 *   [lujun9972/emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
-
-## Solidity
-
-*   [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.
 
 ## Thanks
 
