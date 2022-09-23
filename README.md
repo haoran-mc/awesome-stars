@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [TeX](#tex)
 *   [miscellaneous](#miscellaneous)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Solidity](#solidity)
@@ -25,6 +26,10 @@
 *   [Makefile](#makefile)
 *   [JavaScript](#javascript)
 *   [Thanks](#thanks)
+
+## TeX
+
+*   [punchagan/resume](https://github.com/punchagan/resume) - Source files for my resume. Uses org-mode and a custom style file
 
 ## miscellaneous
 
@@ -53,8 +58,6 @@
 *   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 
 *   [wolverinn/Waking-Up](https://github.com/wolverinn/Waking-Up) - 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试:rocket:；可用于模拟面试、面试前复习、短期内快速备战面试...
-
-*   [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
 
 ## Emacs Lisp
 
