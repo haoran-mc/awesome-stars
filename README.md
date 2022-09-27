@@ -23,6 +23,7 @@
 *   [Vim script](#vim-script-1)
 *   [HTML](#html)
 *   [Shell](#shell)
+*   [YASnippet](#yasnippet)
 *   [Makefile](#makefile)
 *   [JavaScript](#javascript)
 *   [Thanks](#thanks)
@@ -98,8 +99,6 @@
 *   [bbatsov/emacs.d](https://github.com/bbatsov/emacs.d) - My personal Emacs configuration
 
 *   [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
-
-*   [404cn/eatemacs](https://github.com/404cn/eatemacs) - Just my own emacs config, and it is delicious.
 
 *   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot (now for anything that uses eldoc)
 
@@ -260,6 +259,10 @@
 *   [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
 
 *   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+
+## YASnippet
+
+*   [404cn/eatemacs](https://github.com/404cn/eatemacs) - Just my own emacs config, and it is delicious.
 
 ## Makefile
 
