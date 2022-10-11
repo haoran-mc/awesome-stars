@@ -24,6 +24,7 @@
 *   [HTML](#html)
 *   [Shell](#shell)
 *   [YASnippet](#yasnippet)
+*   [Stylus](#stylus)
 *   [Makefile](#makefile)
 *   [JavaScript](#javascript)
 *   [Thanks](#thanks)
@@ -228,11 +229,11 @@
 
 *   [jimmykuu/gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 
-*   [loveminimal/hexo-theme-zero](https://github.com/loveminimal/hexo-theme-zero) - A minimalism hexo theme.
-
 ## Vim Script
 
 *   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
+
+*   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 
 ## Lua
 
@@ -245,8 +246,6 @@
 *   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
 
 *   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
-
-*   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 
 ## HTML
 
@@ -263,6 +262,10 @@
 ## YASnippet
 
 *   [404cn/eatemacs](https://github.com/404cn/eatemacs) - Just my own emacs config, and it is delicious.
+
+## Stylus
+
+*   [loveminimal/hexo-theme-zero](https://github.com/loveminimal/hexo-theme-zero) - A minimalism hexo theme.
 
 ## Makefile
 
