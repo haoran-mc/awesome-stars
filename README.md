@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Vim script](#vim-script)
 *   [miscellaneous](#miscellaneous)
 *   [Emacs Lisp](#emacs-lisp)
 *   [TeX](#tex)
@@ -18,9 +19,8 @@
 *   [Markdown](#markdown)
 *   [Vue](#vue)
 *   [CSS](#css)
-*   [Vim Script](#vim-script)
+*   [Vim Script](#vim-script-1)
 *   [Lua](#lua)
-*   [Vim script](#vim-script-1)
 *   [HTML](#html)
 *   [Shell](#shell)
 *   [YASnippet](#yasnippet)
@@ -28,6 +28,14 @@
 *   [Makefile](#makefile)
 *   [JavaScript](#javascript)
 *   [Thanks](#thanks)
+
+## Vim script
+
+*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
+
+*   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
+
+*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## miscellaneous
 
@@ -54,8 +62,6 @@
 *   [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
 
 *   [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记
-
-*   [everyx/gobyexample](https://github.com/everyx/gobyexample) - Go by Example 通过例子学 Golang
 
 ## Emacs Lisp
 
@@ -240,12 +246,6 @@
 *   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
 
 *   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
-
-## Vim script
-
-*   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
-
-*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## HTML
 
