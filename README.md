@@ -163,7 +163,7 @@
 
 *   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 
-*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区 https://www.kucool.online/
+*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
 
 *   [chalvern/apollo](https://github.com/chalvern/apollo) - 更实用的 Go 开发的社区(论坛)，Better use of Go development community (forum) http://www.jianzhoubian.com
 
