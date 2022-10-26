@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Vim script](#vim-script)
 *   [miscellaneous](#miscellaneous)
 *   [Emacs Lisp](#emacs-lisp)
@@ -11,7 +12,6 @@
 *   [Solidity](#solidity)
 *   [Go](#go)
 *   [SCSS](#scss)
-*   [TypeScript](#typescript)
 *   [Dart](#dart)
 *   [Python](#python)
 *   [Org](#org)
@@ -28,6 +28,12 @@
 *   [Makefile](#makefile)
 *   [JavaScript](#javascript)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [geekris1/funnycode](https://github.com/geekris1/funnycode) -
+
+*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
 ## Vim script
 
@@ -195,15 +201,9 @@
 
 *   [hantmac/Mastering\_Go\_ZH\_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，《玩转 GO》。
 
-*   [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
-
 ## SCSS
 
 *   [loveminimal/hugo-theme-virgo](https://github.com/loveminimal/hugo-theme-virgo) - A simple  and pure theme.
-
-## TypeScript
-
-*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
 ## Dart
 
