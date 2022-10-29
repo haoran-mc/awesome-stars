@@ -101,7 +101,7 @@
 
 *   [redguardtoo/find-file-in-project](https://github.com/redguardtoo/find-file-in-project) - Quick access to project files in Emacs
 
-*   [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - \[Mirror] Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
+*   [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
 
 *   [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 
