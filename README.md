@@ -39,8 +39,6 @@
 
 *   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
 
-*   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
-
 *   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## miscellaneous
@@ -238,6 +236,8 @@
 ## Vim Script
 
 *   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
+
+*   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
 
 *   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 
