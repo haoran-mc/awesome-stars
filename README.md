@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
+*   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [Vim script](#vim-script)
 *   [miscellaneous](#miscellaneous)
@@ -18,16 +20,36 @@
 *   [Rust](#rust)
 *   [Markdown](#markdown)
 *   [Vue](#vue)
-*   [CSS](#css)
 *   [Vim Script](#vim-script-1)
 *   [Lua](#lua)
-*   [HTML](#html)
 *   [Shell](#shell)
 *   [YASnippet](#yasnippet)
 *   [Stylus](#stylus)
 *   [Makefile](#makefile)
 *   [JavaScript](#javascript)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [4s3ti/terminalcv](https://github.com/4s3ti/terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme
+
+*   [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS (with no dependencies)
+
+*   [yoshiharuyamashita/blackburn](https://github.com/yoshiharuyamashita/blackburn) - A Hugo theme built using Yahoo's Pure CSS
+
+*   [Vimux/blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
+
+*   [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
+
+*   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
+
+## CSS
+
+*   [parsiya/Hugo-Octopress](https://github.com/parsiya/Hugo-Octopress) - Port of the classic Octopress theme to Hugo
+
+*   [MeiK2333/github-style](https://github.com/MeiK2333/github-style) -
+
+*   [jimmykuu/gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 
 ## TypeScript
 
@@ -62,10 +84,6 @@
 *   [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 
 *   [KeKe-Li/data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
-
-*   [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
-
-*   [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记
 
 ## Emacs Lisp
 
@@ -193,12 +211,6 @@
 
 *   [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
 
-*   [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
-
-*   [beego/samples](https://github.com/beego/samples) - An open source project for beego sample applications.
-
-*   [hantmac/Mastering\_Go\_ZH\_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，《玩转 GO》。
-
 ## SCSS
 
 *   [loveminimal/hugo-theme-virgo](https://github.com/loveminimal/hugo-theme-virgo) - A simple  and pure theme.
@@ -229,10 +241,6 @@
 
 *   [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) - 基于Golang的开源社区系统。
 
-## CSS
-
-*   [jimmykuu/gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
-
 ## Vim Script
 
 *   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
@@ -247,17 +255,9 @@
 
 *   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
-## HTML
-
-*   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
-
 ## Shell
 
 *   [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - My personal dotfiles, about neovim, zsh shell, tmux...
-
-*   [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
-
-*   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 
 ## YASnippet
 
