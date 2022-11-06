@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [HTML](#html)
 *   [CSS](#css)
 *   [TypeScript](#typescript)
@@ -26,8 +27,11 @@
 *   [YASnippet](#yasnippet)
 *   [Stylus](#stylus)
 *   [Makefile](#makefile)
-*   [JavaScript](#javascript)
 *   [Thanks](#thanks)
+
+## C++
+
+*   [ihameed/task-homie](https://github.com/ihameed/task-homie) -
 
 ## HTML
 
@@ -270,10 +274,6 @@
 ## Makefile
 
 *   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-
-## JavaScript
-
-*   [vouv/chat-room](https://github.com/vouv/chat-room) - 使用GO+Vue构建的聊天室网站
 
 ## Thanks
 
