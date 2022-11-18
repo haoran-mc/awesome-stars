@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [C++](#c)
 *   [HTML](#html)
 *   [CSS](#css)
@@ -28,6 +29,10 @@
 *   [Stylus](#stylus)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## Ruby
+
+*   [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
 
 ## C++
 
@@ -161,7 +166,7 @@
 
 *   [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 
-*   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot (now for anything that uses eldoc)
+*   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 
 *   [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Fastest LSP client for Emacs
 
@@ -212,8 +217,6 @@
 *   [fatih/pool](https://github.com/fatih/pool) - Connection pool for Go's net.Conn interface
 
 *   [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
-
-*   [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
 
 ## SCSS
 
