@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Common Lisp](#common-lisp)
 *   [Ruby](#ruby)
 *   [C++](#c)
 *   [HTML](#html)
@@ -29,6 +30,10 @@
 *   [Stylus](#stylus)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## Common Lisp
+
+*   [Gopiandcode/emacs-viewer](https://github.com/Gopiandcode/emacs-viewer) - A web frontend for your Org-files (100% faithful to GNU+Emacs!)
 
 ## Ruby
 
@@ -168,7 +173,7 @@
 
 *   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 
-*   [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A smooth-as-butter asynchronous LSP client for Emacs
+*   [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Fastest LSP client for Emacs
 
 *   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
 
@@ -215,8 +220,6 @@
 *   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 
 *   [fatih/pool](https://github.com/fatih/pool) - Connection pool for Go's net.Conn interface
-
-*   [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 
 ## SCSS
 
