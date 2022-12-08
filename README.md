@@ -4,9 +4,10 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Common Lisp](#common-lisp)
 *   [Ruby](#ruby)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [HTML](#html)
 *   [CSS](#css)
 *   [TypeScript](#typescript)
@@ -30,6 +31,10 @@
 *   [Stylus](#stylus)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## C
+
+*   [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 
 ## Common Lisp
 
@@ -173,7 +178,7 @@
 
 *   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 
-*   [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Fastest LSP client for Emacs
+*   [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
 
 *   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
 
@@ -218,8 +223,6 @@
 *   [kevinyan815/gocookbook](https://github.com/kevinyan815/gocookbook) - go cook book
 
 *   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-
-*   [fatih/pool](https://github.com/fatih/pool) - Connection pool for Go's net.Conn interface
 
 ## SCSS
 
