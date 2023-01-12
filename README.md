@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Emacs Lisp](#emacs-lisp)
 *   [miscellaneous](#miscellaneous)
 *   [PLpgSQL](#plpgsql)
 *   [C](#c)
@@ -14,7 +15,6 @@
 *   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [Vim script](#vim-script)
-*   [Emacs Lisp](#emacs-lisp)
 *   [TeX](#tex)
 *   [Solidity](#solidity)
 *   [Go](#go)
@@ -30,88 +30,11 @@
 *   [Shell](#shell)
 *   [YASnippet](#yasnippet)
 *   [Stylus](#stylus)
-*   [Makefile](#makefile)
 *   [Thanks](#thanks)
 
-## miscellaneous
-
-*   [lijigang/100-questions-about-orgmode](https://github.com/lijigang/100-questions-about-orgmode) - It's all about *orgmode* !
-
-*   [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
-
-*   [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) - https://github.com/nanotee/nvim-lua-guide chinese version
-
-*   [Aightech/org-gantt-svg](https://github.com/Aightech/org-gantt-svg) -
-
-*   [elsatch/org-timeline-viewer](https://github.com/elsatch/org-timeline-viewer) - Org-timeline-viewer is an interactive timeline visualization generated from Org-mode files.
-
-*   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
-
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-*   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
-
-*   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
-
-*   [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
-
-*   [KeKe-Li/data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
-
-## PLpgSQL
-
-*   [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
-
-## C
-
-*   [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
-
-## Common Lisp
-
-*   [Gopiandcode/emacs-viewer](https://github.com/Gopiandcode/emacs-viewer) - A web frontend for your Org-files (100% faithful to GNU+Emacs!)
-
-## Ruby
-
-*   [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
-
-## C++
-
-*   [ihameed/task-homie](https://github.com/ihameed/task-homie) -
-
-## HTML
-
-*   [4s3ti/terminalcv](https://github.com/4s3ti/terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme
-
-*   [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS (with no dependencies)
-
-*   [yoshiharuyamashita/blackburn](https://github.com/yoshiharuyamashita/blackburn) - A Hugo theme built using Yahoo's Pure CSS
-
-*   [Vimux/blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
-
-*   [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
-
-*   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
-
-## CSS
-
-*   [parsiya/Hugo-Octopress](https://github.com/parsiya/Hugo-Octopress) - Port of the classic Octopress theme to Hugo
-
-*   [MeiK2333/github-style](https://github.com/MeiK2333/github-style) -
-
-*   [jimmykuu/gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
-
-## TypeScript
-
-*   [geekris1/funnycode](https://github.com/geekris1/funnycode) -
-
-*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
-## Vim script
-
-*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
-
-*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
-
 ## Emacs Lisp
+
+*   [ginqi7/plantuml-emacs](https://github.com/ginqi7/plantuml-emacs) - A plantuml plugin for Emacs
 
 *   [quelpa/quelpa-use-package](https://github.com/quelpa/quelpa-use-package) - Emacs quelpa handler for use-package
 
@@ -190,6 +113,84 @@
 *   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
 
 *   [lryong/emacs-golang-conf](https://github.com/lryong/emacs-golang-conf) - Emacs configuration suitable for golang development
+
+## miscellaneous
+
+*   [lijigang/100-questions-about-orgmode](https://github.com/lijigang/100-questions-about-orgmode) - It's all about *orgmode* !
+
+*   [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
+
+*   [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) - https://github.com/nanotee/nvim-lua-guide chinese version
+
+*   [Aightech/org-gantt-svg](https://github.com/Aightech/org-gantt-svg) -
+
+*   [elsatch/org-timeline-viewer](https://github.com/elsatch/org-timeline-viewer) - Org-timeline-viewer is an interactive timeline visualization generated from Org-mode files.
+
+*   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+*   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
+
+*   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
+
+*   [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
+
+*   [KeKe-Li/data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
+
+## PLpgSQL
+
+*   [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
+
+## C
+
+*   [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
+
+## Common Lisp
+
+*   [Gopiandcode/emacs-viewer](https://github.com/Gopiandcode/emacs-viewer) - A web frontend for your Org-files (100% faithful to GNU+Emacs!)
+
+## Ruby
+
+*   [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
+
+## C++
+
+*   [ihameed/task-homie](https://github.com/ihameed/task-homie) -
+
+## HTML
+
+*   [4s3ti/terminalcv](https://github.com/4s3ti/terminalcv) - An easy to setup and (almost) fully customizable command line style CV theme
+
+*   [yihui/hugo-xmin](https://github.com/yihui/hugo-xmin) - eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS (with no dependencies)
+
+*   [yoshiharuyamashita/blackburn](https://github.com/yoshiharuyamashita/blackburn) - A Hugo theme built using Yahoo's Pure CSS
+
+*   [Vimux/blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
+
+*   [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
+
+*   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
+
+## CSS
+
+*   [parsiya/Hugo-Octopress](https://github.com/parsiya/Hugo-Octopress) - Port of the classic Octopress theme to Hugo
+
+*   [MeiK2333/github-style](https://github.com/MeiK2333/github-style) -
+
+*   [jimmykuu/gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
+
+## TypeScript
+
+*   [geekris1/funnycode](https://github.com/geekris1/funnycode) -
+
+*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+
+## Vim script
+
+*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
+
+*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## TeX
 
@@ -282,10 +283,6 @@
 ## Stylus
 
 *   [loveminimal/hexo-theme-zero](https://github.com/loveminimal/hexo-theme-zero) - A minimalism hexo theme.
-
-## Makefile
-
-*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Thanks
 
