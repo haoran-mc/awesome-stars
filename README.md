@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [Emacs Lisp](#emacs-lisp)
 *   [miscellaneous](#miscellaneous)
 *   [PLpgSQL](#plpgsql)
@@ -26,11 +27,18 @@
 *   [Markdown](#markdown)
 *   [Vue](#vue)
 *   [Vim Script](#vim-script-1)
-*   [Lua](#lua)
 *   [Shell](#shell)
 *   [YASnippet](#yasnippet)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Lua
+
+*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
+
+*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
+
+*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
 ## Emacs Lisp
 
@@ -226,8 +234,6 @@
 
 *   [silenceper/pool](https://github.com/silenceper/pool) - 🚌 A golang general network connection poolction pool
 
-*   [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Perform TCP handshake without ACK in Go, useful for health check, that is SYN, SYN-ACK, RST.
-
 ## SCSS
 
 *   [loveminimal/hugo-theme-virgo](https://github.com/loveminimal/hugo-theme-virgo) - A simple  and pure theme.
@@ -265,12 +271,6 @@
 *   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
 
 *   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
-
-## Lua
-
-*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
-
-*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
 ## Shell
 
