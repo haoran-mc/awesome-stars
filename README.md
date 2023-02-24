@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Vim script](#vim-script)
 *   [Lua](#lua)
 *   [Emacs Lisp](#emacs-lisp)
 *   [miscellaneous](#miscellaneous)
@@ -15,7 +16,6 @@
 *   [HTML](#html)
 *   [CSS](#css)
 *   [TypeScript](#typescript)
-*   [Vim script](#vim-script)
 *   [TeX](#tex)
 *   [Solidity](#solidity)
 *   [Go](#go)
@@ -31,6 +31,14 @@
 *   [YASnippet](#yasnippet)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Vim script
+
+*   [xfyuan/vim-mac-dictionary](https://github.com/xfyuan/vim-mac-dictionary) - A Vim plugin that helps you find words using macOS Dictionary.app. Support to display the result in NeoVim's Floating Window
+
+*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
+
+*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## Lua
 
@@ -146,8 +154,6 @@
 
 *   [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：\[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 
-*   [KeKe-Li/data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
-
 ## PLpgSQL
 
 *   [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
@@ -195,12 +201,6 @@
 *   [geekris1/funnycode](https://github.com/geekris1/funnycode) -
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
-## Vim script
-
-*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
-
-*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## TeX
 
