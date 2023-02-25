@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [Emacs Lisp](#emacs-lisp)
 *   [Vim script](#vim-script)
 *   [Lua](#lua)
-*   [Emacs Lisp](#emacs-lisp)
 *   [miscellaneous](#miscellaneous)
 *   [PLpgSQL](#plpgsql)
 *   [C](#c)
@@ -32,23 +32,9 @@
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
-## Vim script
-
-*   [xfyuan/vim-mac-dictionary](https://github.com/xfyuan/vim-mac-dictionary) - A Vim plugin that helps you find words using macOS Dictionary.app. Support to display the result in NeoVim's Floating Window
-
-*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
-
-*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
-
-## Lua
-
-*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
-
-*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
-
-*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
-
 ## Emacs Lisp
+
+*   [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 
 *   [ginqi7/plantuml-emacs](https://github.com/ginqi7/plantuml-emacs) - A plantuml plugin for Emacs
 
@@ -130,6 +116,22 @@
 
 *   [lryong/emacs-golang-conf](https://github.com/lryong/emacs-golang-conf) - Emacs configuration suitable for golang development
 
+## Vim script
+
+*   [xfyuan/vim-mac-dictionary](https://github.com/xfyuan/vim-mac-dictionary) - A Vim plugin that helps you find words using macOS Dictionary.app. Support to display the result in NeoVim's Floating Window
+
+*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
+
+*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
+
+## Lua
+
+*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
+
+*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
+
+*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
+
 ## miscellaneous
 
 *   [lijigang/100-questions-about-orgmode](https://github.com/lijigang/100-questions-about-orgmode) - It's all about *orgmode* !
@@ -151,8 +153,6 @@
 *   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
 
 *   [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
-
-*   [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：\[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 
 ## PLpgSQL
 
