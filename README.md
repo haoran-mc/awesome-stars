@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Vim script](#vim-script)
-*   [Lua](#lua)
 *   [miscellaneous](#miscellaneous)
 *   [PLpgSQL](#plpgsql)
 *   [C](#c)
@@ -31,6 +31,16 @@
 *   [YASnippet](#yasnippet)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Lua
+
+*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+
+*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
+
+*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
+
+*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
 ## Emacs Lisp
 
@@ -123,14 +133,6 @@
 *   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
 
 *   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
-
-## Lua
-
-*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
-
-*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
-
-*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
 ## miscellaneous
 
@@ -231,8 +233,6 @@
 *   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
 
 *   [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
-
-*   [silenceper/pool](https://github.com/silenceper/pool) - 🚌 A golang general network connection poolction pool
 
 ## SCSS
 
