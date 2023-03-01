@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Lua](#lua)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Vim script](#vim-script)
@@ -18,7 +19,6 @@
 *   [TypeScript](#typescript)
 *   [TeX](#tex)
 *   [Solidity](#solidity)
-*   [Go](#go)
 *   [SCSS](#scss)
 *   [Dart](#dart)
 *   [Python](#python)
@@ -31,6 +31,28 @@
 *   [YASnippet](#yasnippet)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+
+*   [goflyfox/gfstudy](https://github.com/goflyfox/gfstudy) - go frame框架基础介绍
+
+*   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
+
+*   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+
+*   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+
+*   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
+
+*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
+
+*   [chalvern/apollo](https://github.com/chalvern/apollo) - 更实用的 Go 开发的社区(论坛)，Better use of Go development community (forum) http://www.jianzhoubian.com
+
+*   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
+
+*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
 
 ## Lua
 
@@ -211,28 +233,6 @@
 ## Solidity
 
 *   [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.
-
-## Go
-
-*   [goflyfox/gfstudy](https://github.com/goflyfox/gfstudy) - go frame框架基础介绍
-
-*   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
-
-*   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-
-*   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-
-*   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
-
-*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
-
-*   [chalvern/apollo](https://github.com/chalvern/apollo) - 更实用的 Go 开发的社区(论坛)，Better use of Go development community (forum) http://www.jianzhoubian.com
-
-*   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
-
-*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
-
-*   [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
 
 ## SCSS
 
