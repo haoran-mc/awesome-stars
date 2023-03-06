@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Lua](#lua)
 *   [Emacs Lisp](#emacs-lisp)
@@ -31,6 +32,10 @@
 *   [YASnippet](#yasnippet)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## JavaScript
+
+*   [HenryTSZ/vuepress-blog](https://github.com/HenryTSZ/vuepress-blog) - blog
 
 ## Go
 
@@ -145,8 +150,6 @@
 *   [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
 
 *   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
-
-*   [lryong/emacs-golang-conf](https://github.com/lryong/emacs-golang-conf) - Emacs configuration suitable for golang development
 
 ## Vim script
 
