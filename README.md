@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [Go](#go)
+*   [JavaScript](#javascript)
 *   [Lua](#lua)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Vim script](#vim-script)
@@ -33,11 +33,9 @@
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
-## JavaScript
-
-*   [HenryTSZ/vuepress-blog](https://github.com/HenryTSZ/vuepress-blog) - blog
-
 ## Go
+
+*   [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
 
 *   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
@@ -58,6 +56,10 @@
 *   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
 
 *   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
+
+## JavaScript
+
+*   [HenryTSZ/vuepress-blog](https://github.com/HenryTSZ/vuepress-blog) - blog
 
 ## Lua
 
@@ -148,8 +150,6 @@
 *   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 
 *   [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
-
-*   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
 
 ## Vim script
 
