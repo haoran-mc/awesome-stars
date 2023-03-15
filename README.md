@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [Vim script](#vim-script)
 *   [Lua](#lua)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Emacs Lisp](#emacs-lisp)
-*   [Vim script](#vim-script)
 *   [miscellaneous](#miscellaneous)
 *   [PLpgSQL](#plpgsql)
 *   [C](#c)
@@ -30,8 +30,17 @@
 *   [Vim Script](#vim-script-1)
 *   [Shell](#shell)
 *   [YASnippet](#yasnippet)
-*   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Vim script
+
+*   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
+
+*   [xfyuan/vim-mac-dictionary](https://github.com/xfyuan/vim-mac-dictionary) - A Vim plugin that helps you find words using macOS Dictionary.app. Support to display the result in NeoVim's Floating Window
+
+*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
+
+*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## Lua
 
@@ -150,14 +159,6 @@
 *   [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 
 *   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
-
-## Vim script
-
-*   [xfyuan/vim-mac-dictionary](https://github.com/xfyuan/vim-mac-dictionary) - A Vim plugin that helps you find words using macOS Dictionary.app. Support to display the result in NeoVim's Floating Window
-
-*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
-
-*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## miscellaneous
 
@@ -282,10 +283,6 @@
 ## YASnippet
 
 *   [404cn/eatemacs](https://github.com/404cn/eatemacs) - Just my own emacs config, and it is delicious.
-
-## Stylus
-
-*   [loveminimal/hexo-theme-zero](https://github.com/loveminimal/hexo-theme-zero) - A minimalism hexo theme.
 
 ## Thanks
 
