@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [Emacs Lisp](#emacs-lisp)
 *   [Vim script](#vim-script)
 *   [Lua](#lua)
 *   [Go](#go)
 *   [JavaScript](#javascript)
-*   [Emacs Lisp](#emacs-lisp)
 *   [miscellaneous](#miscellaneous)
 *   [PLpgSQL](#plpgsql)
 *   [C](#c)
@@ -32,57 +32,9 @@
 *   [YASnippet](#yasnippet)
 *   [Thanks](#thanks)
 
-## Vim script
-
-*   [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
-
-*   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
-
-*   [xfyuan/vim-mac-dictionary](https://github.com/xfyuan/vim-mac-dictionary) - A Vim plugin that helps you find words using macOS Dictionary.app. Support to display the result in NeoVim's Floating Window
-
-*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
-
-*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
-
-## Lua
-
-*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
-
-*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-
-*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
-
-*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
-
-*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
-
-## Go
-
-*   [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
-
-*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-
-*   [goflyfox/gfstudy](https://github.com/goflyfox/gfstudy) - go frame框架基础介绍
-
-*   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
-
-*   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-
-*   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-
-*   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
-
-*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
-
-*   [chalvern/apollo](https://github.com/chalvern/apollo) - 更实用的 Go 开发的社区(论坛)，Better use of Go development community (forum) http://www.jianzhoubian.com
-
-*   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
-
-## JavaScript
-
-*   [HenryTSZ/vuepress-blog](https://github.com/HenryTSZ/vuepress-blog) - blog
-
 ## Emacs Lisp
+
+*   [rougier/notes-list](https://github.com/rougier/notes-list) - Emacs notes list
 
 *   [ch11ng/exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 
@@ -160,6 +112,56 @@
 
 *   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 
+## Vim script
+
+*   [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
+
+*   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
+
+*   [xfyuan/vim-mac-dictionary](https://github.com/xfyuan/vim-mac-dictionary) - A Vim plugin that helps you find words using macOS Dictionary.app. Support to display the result in NeoVim's Floating Window
+
+*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
+
+*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
+
+## Lua
+
+*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
+
+*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+
+*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
+
+*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
+
+*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
+
+## Go
+
+*   [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
+
+*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+
+*   [goflyfox/gfstudy](https://github.com/goflyfox/gfstudy) - go frame框架基础介绍
+
+*   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
+
+*   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+
+*   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+
+*   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
+
+*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
+
+*   [chalvern/apollo](https://github.com/chalvern/apollo) - 更实用的 Go 开发的社区(论坛)，Better use of Go development community (forum) http://www.jianzhoubian.com
+
+*   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
+
+## JavaScript
+
+*   [HenryTSZ/vuepress-blog](https://github.com/HenryTSZ/vuepress-blog) - blog
+
 ## miscellaneous
 
 *   [lijigang/100-questions-about-orgmode](https://github.com/lijigang/100-questions-about-orgmode) - It's all about *orgmode* !
@@ -179,8 +181,6 @@
 *   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
 
 *   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
-
-*   [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 
 ## PLpgSQL
 
