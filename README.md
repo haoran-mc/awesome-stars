@@ -30,6 +30,7 @@
 *   [Vim Script](#vim-script-1)
 *   [Shell](#shell)
 *   [YASnippet](#yasnippet)
+*   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
 ## Emacs Lisp
@@ -112,15 +113,13 @@
 
 *   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 
+*   [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
+
 ## Vim script
 
 *   [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
 
 *   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
-
-*   [xfyuan/vim-mac-dictionary](https://github.com/xfyuan/vim-mac-dictionary) - A Vim plugin that helps you find words using macOS Dictionary.app. Support to display the result in NeoVim's Floating Window
-
-*   [tibabit/vim-templates](https://github.com/tibabit/vim-templates) - create files from templates
 
 *   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
@@ -131,8 +130,6 @@
 *   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 
 *   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
-
-*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
 
 *   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
@@ -158,6 +155,8 @@
 
 *   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
 
+*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
+
 ## JavaScript
 
 *   [HenryTSZ/vuepress-blog](https://github.com/HenryTSZ/vuepress-blog) - blog
@@ -181,6 +180,8 @@
 *   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
 
 *   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
+
+*   [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 
 ## PLpgSQL
 
@@ -258,8 +259,6 @@
 
 *   [sloganking/codevis](https://github.com/sloganking/codevis) - Turns your code into one large image
 
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-
 ## Markdown
 
 *   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -283,6 +282,10 @@
 ## YASnippet
 
 *   [404cn/eatemacs](https://github.com/404cn/eatemacs) - Just my own emacs config, and it is delicious.
+
+## Stylus
+
+*   [loveminimal/hexo-theme-zero](https://github.com/loveminimal/hexo-theme-zero) - A minimalism hexo theme.
 
 ## Thanks
 
