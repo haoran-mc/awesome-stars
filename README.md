@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Emacs Lisp](#emacs-lisp)
 *   [Vim script](#vim-script)
+*   [Emacs Lisp](#emacs-lisp)
 *   [Lua](#lua)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -32,6 +32,16 @@
 *   [YASnippet](#yasnippet)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Vim script
+
+*   [shushcat/vim-minimd](https://github.com/shushcat/vim-minimd) - A fast, folding Markdown outliner for Vim
+
+*   [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
+
+*   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
+
+*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## Emacs Lisp
 
@@ -112,16 +122,6 @@
 *   [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 
 *   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
-
-*   [manateelazycat/lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
-
-## Vim script
-
-*   [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
-
-*   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
-
-*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## Lua
 
