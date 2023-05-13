@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Vim script](#vim-script)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Lua](#lua)
@@ -17,7 +18,6 @@
 *   [C++](#c-1)
 *   [HTML](#html)
 *   [CSS](#css)
-*   [TypeScript](#typescript)
 *   [TeX](#tex)
 *   [Solidity](#solidity)
 *   [SCSS](#scss)
@@ -30,8 +30,15 @@
 *   [Vim Script](#vim-script-1)
 *   [Shell](#shell)
 *   [YASnippet](#yasnippet)
-*   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
+
+*   [geekris1/funnycode](https://github.com/geekris1/funnycode) -
+
+*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
 ## Vim script
 
@@ -225,12 +232,6 @@
 
 *   [jimmykuu/gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 
-## TypeScript
-
-*   [geekris1/funnycode](https://github.com/geekris1/funnycode) -
-
-*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
 ## TeX
 
 *   [punchagan/resume](https://github.com/punchagan/resume) - Source files for my resume
@@ -282,10 +283,6 @@
 ## YASnippet
 
 *   [404cn/eatemacs](https://github.com/404cn/eatemacs) - Just my own emacs config, and it is delicious.
-
-## Stylus
-
-*   [loveminimal/hexo-theme-zero](https://github.com/loveminimal/hexo-theme-zero) - A minimalism hexo theme.
 
 ## Thanks
 
