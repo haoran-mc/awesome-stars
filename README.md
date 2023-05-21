@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [TypeScript](#typescript)
 *   [Vim script](#vim-script)
 *   [Emacs Lisp](#emacs-lisp)
@@ -12,7 +13,6 @@
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [PLpgSQL](#plpgsql)
-*   [C](#c)
 *   [Common Lisp](#common-lisp)
 *   [Ruby](#ruby)
 *   [C++](#c-1)
@@ -31,6 +31,12 @@
 *   [Shell](#shell)
 *   [YASnippet](#yasnippet)
 *   [Thanks](#thanks)
+
+## C
+
+*   [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org)
+
+*   [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 
 ## TypeScript
 
@@ -162,8 +168,6 @@
 
 *   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
 
-*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
-
 ## JavaScript
 
 *   [HenryTSZ/vuepress-blog](https://github.com/HenryTSZ/vuepress-blog) - blog
@@ -193,10 +197,6 @@
 ## PLpgSQL
 
 *   [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
-
-## C
-
-*   [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 
 ## Common Lisp
 
