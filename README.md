@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [Emacs Lisp](#emacs-lisp)
 *   [C](#c)
 *   [TypeScript](#typescript)
 *   [Vim script](#vim-script)
-*   [Emacs Lisp](#emacs-lisp)
 *   [Lua](#lua)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -32,31 +32,9 @@
 *   [YASnippet](#yasnippet)
 *   [Thanks](#thanks)
 
-## C
-
-*   [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org)
-
-*   [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
-
-## TypeScript
-
-*   [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
-
-*   [geekris1/funnycode](https://github.com/geekris1/funnycode) -
-
-*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
-## Vim script
-
-*   [shushcat/vim-minimd](https://github.com/shushcat/vim-minimd) - A fast, folding Markdown outliner for Vim
-
-*   [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
-
-*   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
-
-*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
-
 ## Emacs Lisp
+
+*   [dakra/dmacs](https://github.com/dakra/dmacs) - Emacs Literate Configuration with borg
 
 *   [rougier/notes-list](https://github.com/rougier/notes-list) - Emacs notes list
 
@@ -136,6 +114,30 @@
 
 *   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 
+## C
+
+*   [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org)
+
+*   [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
+
+## TypeScript
+
+*   [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
+
+*   [geekris1/funnycode](https://github.com/geekris1/funnycode) -
+
+*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+
+## Vim script
+
+*   [shushcat/vim-minimd](https://github.com/shushcat/vim-minimd) - A fast, folding Markdown outliner for Vim
+
+*   [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
+
+*   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
+
+*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
+
 ## Lua
 
 *   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
@@ -191,8 +193,6 @@
 *   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
 
 *   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
-
-*   [noctuid/evil-guide](https://github.com/noctuid/evil-guide) - Draft of a guide for using emacs with evil
 
 ## PLpgSQL
 
