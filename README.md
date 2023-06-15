@@ -34,6 +34,8 @@
 
 ## Emacs Lisp
 
+*   [xuchunyang/elisp-demos](https://github.com/xuchunyang/elisp-demos) - Demonstrate Emacs Lisp APIs
+
 *   [dakra/dmacs](https://github.com/dakra/dmacs) - Emacs Literate Configuration with borg
 
 *   [rougier/notes-list](https://github.com/rougier/notes-list) - Emacs notes list
@@ -111,8 +113,6 @@
 *   [bbatsov/emacs.d](https://github.com/bbatsov/emacs.d) - My personal Emacs configuration
 
 *   [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
-
-*   [casouri/eldoc-box](https://github.com/casouri/eldoc-box) - childframe doc for eglot and anything that uses eldoc
 
 ## C
 
