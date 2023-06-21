@@ -29,10 +29,11 @@
 *   [Vue](#vue)
 *   [Vim Script](#vim-script-1)
 *   [Shell](#shell)
-*   [YASnippet](#yasnippet)
 *   [Thanks](#thanks)
 
 ## Emacs Lisp
+
+*   [Theory-of-Everything/everforest-emacs](https://github.com/Theory-of-Everything/everforest-emacs) - read-only mirror of https://git.sr.ht/~theorytoe/everforest-theme
 
 *   [xuchunyang/elisp-demos](https://github.com/xuchunyang/elisp-demos) - Demonstrate Emacs Lisp APIs
 
@@ -279,10 +280,6 @@
 ## Shell
 
 *   [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - My personal dotfiles, about neovim, zsh shell, tmux...
-
-## YASnippet
-
-*   [404cn/eatemacs](https://github.com/404cn/eatemacs) - Just my own emacs config, and it is delicious.
 
 ## Thanks
 
