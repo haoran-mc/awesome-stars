@@ -197,7 +197,7 @@
 
 ## PLpgSQL
 
-*   [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
+*   [digoal/blog](https://github.com/digoal/blog) - Things about Database,Business,Mind.(Like PostgreSQL). git clone --depth 1 https://github.com/digoal/blog
 
 ## Common Lisp
 
