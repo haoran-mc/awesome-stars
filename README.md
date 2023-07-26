@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Emacs Lisp](#emacs-lisp)
 *   [C](#c)
 *   [TypeScript](#typescript)
@@ -26,10 +27,15 @@
 *   [Org](#org)
 *   [Rust](#rust)
 *   [Markdown](#markdown)
-*   [Vue](#vue)
 *   [Vim Script](#vim-script-1)
 *   [Shell](#shell)
 *   [Thanks](#thanks)
+
+## Vue
+
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
+
+*   [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) - 基于Golang的开源社区系统。
 
 ## Emacs Lisp
 
@@ -112,8 +118,6 @@
 *   [DogLooksGood/dogEmacs](https://github.com/DogLooksGood/dogEmacs) - personal .emacs.d
 
 *   [bbatsov/emacs.d](https://github.com/bbatsov/emacs.d) - My personal Emacs configuration
-
-*   [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 
 ## C
 
@@ -264,10 +268,6 @@
 ## Markdown
 
 *   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-
-## Vue
-
-*   [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) - 基于Golang的开源社区系统。
 
 ## Vim Script
 
