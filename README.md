@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [Vue](#vue)
 *   [Emacs Lisp](#emacs-lisp)
 *   [C](#c)
 *   [TypeScript](#typescript)
 *   [Vim script](#vim-script)
-*   [Lua](#lua)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -28,8 +28,23 @@
 *   [Rust](#rust)
 *   [Markdown](#markdown)
 *   [Vim Script](#vim-script-1)
-*   [Shell](#shell)
 *   [Thanks](#thanks)
+
+## Lua
+
+*   [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+
+*   [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
+
+*   [cworld1/nvim-config](https://github.com/cworld1/nvim-config) - My NeoVim configurations.
+
+*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
+
+*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+
+*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
+
+*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
 ## Vue
 
@@ -115,10 +130,6 @@
 
 *   [zhenwenc/.emacs.d](https://github.com/zhenwenc/.emacs.d) -
 
-*   [DogLooksGood/dogEmacs](https://github.com/DogLooksGood/dogEmacs) - personal .emacs.d
-
-*   [bbatsov/emacs.d](https://github.com/bbatsov/emacs.d) - My personal Emacs configuration
-
 ## C
 
 *   [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org)
@@ -142,16 +153,6 @@
 *   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
 
 *   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
-
-## Lua
-
-*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
-
-*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-
-*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
-
-*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
 ## Go
 
@@ -276,10 +277,6 @@
 *   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
 
 *   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
-
-## Shell
-
-*   [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - My personal dotfiles, about neovim, zsh shell, tmux...
 
 ## Thanks
 
