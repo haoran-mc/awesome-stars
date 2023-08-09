@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Lua](#lua)
 *   [Vue](#vue)
 *   [Emacs Lisp](#emacs-lisp)
@@ -12,7 +13,6 @@
 *   [Vim script](#vim-script)
 *   [Go](#go)
 *   [JavaScript](#javascript)
-*   [miscellaneous](#miscellaneous)
 *   [PLpgSQL](#plpgsql)
 *   [Common Lisp](#common-lisp)
 *   [Ruby](#ruby)
@@ -29,6 +29,28 @@
 *   [Markdown](#markdown)
 *   [Vim Script](#vim-script-1)
 *   [Thanks](#thanks)
+
+## miscellaneous
+
+*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+
+*   [lijigang/100-questions-about-orgmode](https://github.com/lijigang/100-questions-about-orgmode) - It's all about *orgmode* !
+
+*   [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
+
+*   [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) - https://github.com/nanotee/nvim-lua-guide chinese version
+
+*   [Aightech/org-gantt-svg](https://github.com/Aightech/org-gantt-svg) -
+
+*   [elsatch/org-timeline-viewer](https://github.com/elsatch/org-timeline-viewer) - Org-timeline-viewer is an interactive timeline visualization generated from Org-mode files.
+
+*   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+*   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
+
+*   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
 
 ## Lua
 
@@ -128,8 +150,6 @@
 
 *   [manateelazycat/awesome-tray](https://github.com/manateelazycat/awesome-tray) - Hide mode-line, display necessary information at right of minibuffer.
 
-*   [zhenwenc/.emacs.d](https://github.com/zhenwenc/.emacs.d) -
-
 ## C
 
 *   [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org)
@@ -179,26 +199,6 @@
 ## JavaScript
 
 *   [HenryTSZ/vuepress-blog](https://github.com/HenryTSZ/vuepress-blog) - blog
-
-## miscellaneous
-
-*   [lijigang/100-questions-about-orgmode](https://github.com/lijigang/100-questions-about-orgmode) - It's all about *orgmode* !
-
-*   [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
-
-*   [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) - https://github.com/nanotee/nvim-lua-guide chinese version
-
-*   [Aightech/org-gantt-svg](https://github.com/Aightech/org-gantt-svg) -
-
-*   [elsatch/org-timeline-viewer](https://github.com/elsatch/org-timeline-viewer) - Org-timeline-viewer is an interactive timeline visualization generated from Org-mode files.
-
-*   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
-
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-*   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
-
-*   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
 
 ## PLpgSQL
 
