@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [Lua](#lua)
+*   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Emacs Lisp](#emacs-lisp)
 *   [C](#c)
@@ -30,6 +30,24 @@
 *   [Vim Script](#vim-script-1)
 *   [Thanks](#thanks)
 
+## Lua
+
+*   [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) - Emacs dired like file manager for neovim
+
+*   [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+
+*   [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
+
+*   [cworld1/nvim-config](https://github.com/cworld1/nvim-config) - My NeoVim configurations.
+
+*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
+
+*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+
+*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
+
+*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
+
 ## miscellaneous
 
 *   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -51,22 +69,6 @@
 *   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
 
 *   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
-
-## Lua
-
-*   [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
-
-*   [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
-
-*   [cworld1/nvim-config](https://github.com/cworld1/nvim-config) - My NeoVim configurations.
-
-*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
-
-*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-
-*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
-
-*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
 ## Vue
 
@@ -227,8 +229,6 @@
 *   [Vimux/blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
 
 *   [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
-
-*   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
 
 ## CSS
 
