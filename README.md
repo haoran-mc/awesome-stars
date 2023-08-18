@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Emacs Lisp](#emacs-lisp)
 *   [Lua](#lua)
+*   [Emacs Lisp](#emacs-lisp)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [C](#c)
@@ -29,6 +29,26 @@
 *   [Markdown](#markdown)
 *   [Vim Script](#vim-script-1)
 *   [Thanks](#thanks)
+
+## Lua
+
+*   [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
+
+*   [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) - Emacs dired like file manager for neovim
+
+*   [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+
+*   [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
+
+*   [cworld1/nvim-config](https://github.com/cworld1/nvim-config) - My NeoVim configurations.
+
+*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
+
+*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+
+*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
+
+*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
 ## Emacs Lisp
 
@@ -105,24 +125,6 @@
 *   [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
 
 *   [loveminimal/emacs.d](https://github.com/loveminimal/emacs.d) - All in emacs.
-
-## Lua
-
-*   [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) - Emacs dired like file manager for neovim
-
-*   [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
-
-*   [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
-
-*   [cworld1/nvim-config](https://github.com/cworld1/nvim-config) - My NeoVim configurations.
-
-*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
-
-*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-
-*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
-
-*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
 ## miscellaneous
 
@@ -275,8 +277,6 @@
 *   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
 
 *   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
-
-*   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 
 ## Thanks
 
