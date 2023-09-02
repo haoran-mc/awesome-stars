@@ -31,6 +31,8 @@
 
 ## Emacs Lisp
 
+*   [nobiot/org-transclusion](https://github.com/nobiot/org-transclusion) - Emacs package to enable transclusion with Org Mode
+
 *   [jdtsmith/org-modern-indent](https://github.com/jdtsmith/org-modern-indent) - modern block styling with org-indent
 
 *   [twlz0ne/with-proxy.el](https://github.com/twlz0ne/with-proxy.el) - Evaluate expressions with proxy
@@ -174,8 +176,6 @@
 *   [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
 
 *   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
-
-*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## Go
 
