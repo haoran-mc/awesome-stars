@@ -31,6 +31,10 @@
 
 ## Emacs Lisp
 
+*   [emacscollective/borg](https://github.com/emacscollective/borg) - Assimilate Emacs packages as Git submodules
+
+*   [rougier/elegant-emacs](https://github.com/rougier/elegant-emacs) - A very minimal but elegant emacs (I think)
+
 *   [nobiot/org-transclusion](https://github.com/nobiot/org-transclusion) - Emacs package to enable transclusion with Org Mode
 
 *   [jdtsmith/org-modern-indent](https://github.com/jdtsmith/org-modern-indent) - modern block styling with org-indent
@@ -144,10 +148,6 @@
 *   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
 
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-*   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
-
-*   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
 
 ## Vue
 
