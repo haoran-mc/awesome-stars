@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [Emacs Lisp](#emacs-lisp)
+*   [miscellaneous](#miscellaneous)
 *   [Lua](#lua)
 *   [C](#c)
 *   [TypeScript](#typescript)
@@ -29,27 +29,9 @@
 *   [Vim Script](#vim-script-1)
 *   [Thanks](#thanks)
 
-## miscellaneous
-
-*   [Gracker/Rss-IT](https://github.com/Gracker/Rss-IT) - 这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......
-
-*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-
-*   [lijigang/100-questions-about-orgmode](https://github.com/lijigang/100-questions-about-orgmode) - It's all about *orgmode* !
-
-*   [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
-
-*   [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) - https://github.com/nanotee/nvim-lua-guide chinese version
-
-*   [Aightech/org-gantt-svg](https://github.com/Aightech/org-gantt-svg) -
-
-*   [elsatch/org-timeline-viewer](https://github.com/elsatch/org-timeline-viewer) - Org-timeline-viewer is an interactive timeline visualization generated from Org-mode files.
-
-*   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
-
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
 ## Emacs Lisp
+
+*   [liuyinz/consult-todo](https://github.com/liuyinz/consult-todo) -
 
 *   [emacscollective/borg](https://github.com/emacscollective/borg) - Assimilate Emacs packages as Git submodules
 
@@ -132,6 +114,26 @@
 *   [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
 
 *   [loveminimal/emacs.d](https://github.com/loveminimal/emacs.d) - All in emacs.
+
+## miscellaneous
+
+*   [Gracker/Rss-IT](https://github.com/Gracker/Rss-IT) - 这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......
+
+*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+
+*   [lijigang/100-questions-about-orgmode](https://github.com/lijigang/100-questions-about-orgmode) - It's all about *orgmode* !
+
+*   [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
+
+*   [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) - https://github.com/nanotee/nvim-lua-guide chinese version
+
+*   [Aightech/org-gantt-svg](https://github.com/Aightech/org-gantt-svg) -
+
+*   [elsatch/org-timeline-viewer](https://github.com/elsatch/org-timeline-viewer) - Org-timeline-viewer is an interactive timeline visualization generated from Org-mode files.
+
+*   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## Lua
 
@@ -272,8 +274,6 @@
 ## Vim Script
 
 *   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
-
-*   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
 
 ## Thanks
 
