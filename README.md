@@ -26,10 +26,13 @@
 *   [Rust](#rust)
 *   [Markdown](#markdown)
 *   [Vue](#vue)
-*   [Vim Script](#vim-script-1)
 *   [Thanks](#thanks)
 
 ## Emacs Lisp
+
+*   [sulami/literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el) - 🧮 Literate programming for M-x calc
+
+*   [alphapapa/org-ql](https://github.com/alphapapa/org-ql) - A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
 
 *   [liuyinz/consult-todo](https://github.com/liuyinz/consult-todo) -
 
@@ -112,8 +115,6 @@
 *   [emacsfodder/emacs-soothe-theme](https://github.com/emacsfodder/emacs-soothe-theme) - Dark Colorful theme for Emacs, built for synesthesiacs with a taste for Skittles™.
 
 *   [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
-
-*   [loveminimal/emacs.d](https://github.com/loveminimal/emacs.d) - All in emacs.
 
 ## miscellaneous
 
@@ -270,10 +271,6 @@
 ## Vue
 
 *   [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) - 基于Golang的开源社区系统。
-
-## Vim Script
-
-*   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
 
 ## Thanks
 
