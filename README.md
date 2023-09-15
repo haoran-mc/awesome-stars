@@ -30,6 +30,8 @@
 
 ## Emacs Lisp
 
+*   [tshu-w/.emacs.d](https://github.com/tshu-w/.emacs.d) - My personal Emacs config, originally from Spacemacs
+
 *   [sulami/literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el) - 🧮 Literate programming for M-x calc
 
 *   [alphapapa/org-ql](https://github.com/alphapapa/org-ql) - A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
@@ -113,8 +115,6 @@
 *   [manateelazycat/lazy-load](https://github.com/manateelazycat/lazy-load) - Lazy load keys for speed ​​up Emacs startup.
 
 *   [emacsfodder/emacs-soothe-theme](https://github.com/emacsfodder/emacs-soothe-theme) - Dark Colorful theme for Emacs, built for synesthesiacs with a taste for Skittles™.
-
-*   [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
 
 ## miscellaneous
 
