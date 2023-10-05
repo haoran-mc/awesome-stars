@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Go](#go)
 *   [miscellaneous](#miscellaneous)
+*   [Go](#go)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Lua](#lua)
 *   [C](#c)
@@ -28,6 +28,30 @@
 *   [Vue](#vue)
 *   [Thanks](#thanks)
 
+## miscellaneous
+
+*   [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
+
+*   [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
+
+*   [Gracker/Rss-IT](https://github.com/Gracker/Rss-IT) - 这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......
+
+*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+
+*   [lijigang/100-questions-about-orgmode](https://github.com/lijigang/100-questions-about-orgmode) - It's all about *orgmode* !
+
+*   [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
+
+*   [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) - https://github.com/nanotee/nvim-lua-guide chinese version
+
+*   [Aightech/org-gantt-svg](https://github.com/Aightech/org-gantt-svg) -
+
+*   [elsatch/org-timeline-viewer](https://github.com/elsatch/org-timeline-viewer) - Org-timeline-viewer is an interactive timeline visualization generated from Org-mode files.
+
+*   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
+
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
 ## Go
 
 *   [mcuadros/go-syslog](https://github.com/mcuadros/go-syslog) - Syslog server library for go.
@@ -49,30 +73,6 @@
 *   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
 
 *   [chalvern/apollo](https://github.com/chalvern/apollo) - 更实用的 Go 开发的社区(论坛)，Better use of Go development community (forum) http://www.jianzhoubian.com
-
-*   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
-
-## miscellaneous
-
-*   [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
-
-*   [Gracker/Rss-IT](https://github.com/Gracker/Rss-IT) - 这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......
-
-*   [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-
-*   [lijigang/100-questions-about-orgmode](https://github.com/lijigang/100-questions-about-orgmode) - It's all about *orgmode* !
-
-*   [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
-
-*   [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) - https://github.com/nanotee/nvim-lua-guide chinese version
-
-*   [Aightech/org-gantt-svg](https://github.com/Aightech/org-gantt-svg) -
-
-*   [elsatch/org-timeline-viewer](https://github.com/elsatch/org-timeline-viewer) - Org-timeline-viewer is an interactive timeline visualization generated from Org-mode files.
-
-*   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
-
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## Emacs Lisp
 
