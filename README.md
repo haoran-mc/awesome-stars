@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
+*   [miscellaneous](#miscellaneous)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Lua](#lua)
 *   [C](#c)
@@ -27,6 +27,28 @@
 *   [Markdown](#markdown)
 *   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [mikespook/golib](https://github.com/mikespook/golib) -
+
+*   [mcuadros/go-syslog](https://github.com/mcuadros/go-syslog) - Syslog server library for go.
+
+*   [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
+
+*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+
+*   [goflyfox/gfstudy](https://github.com/goflyfox/gfstudy) - go frame框架基础介绍
+
+*   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
+
+*   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+
+*   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+
+*   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
+
+*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
 
 ## miscellaneous
 
@@ -51,28 +73,6 @@
 *   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
 
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-## Go
-
-*   [mcuadros/go-syslog](https://github.com/mcuadros/go-syslog) - Syslog server library for go.
-
-*   [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
-
-*   [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-
-*   [goflyfox/gfstudy](https://github.com/goflyfox/gfstudy) - go frame框架基础介绍
-
-*   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
-
-*   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-
-*   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-
-*   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
-
-*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
-
-*   [chalvern/apollo](https://github.com/chalvern/apollo) - 更实用的 Go 开发的社区(论坛)，Better use of Go development community (forum) http://www.jianzhoubian.com
 
 ## Emacs Lisp
 
