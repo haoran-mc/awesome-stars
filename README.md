@@ -30,6 +30,8 @@
 
 ## Go
 
+*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
+
 *   [mikespook/golib](https://github.com/mikespook/golib) -
 
 *   [mcuadros/go-syslog](https://github.com/mcuadros/go-syslog) - Syslog server library for go.
@@ -47,8 +49,6 @@
 *   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 
 *   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
-
-*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
 
 ## miscellaneous
 
