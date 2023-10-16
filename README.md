@@ -20,6 +20,7 @@
 *   [CSS](#css)
 *   [TeX](#tex)
 *   [Solidity](#solidity)
+*   [SCSS](#scss)
 *   [Dart](#dart)
 *   [Python](#python)
 *   [Org](#org)
@@ -232,8 +233,6 @@
 
 *   [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
 
-*   [loveminimal/hugo-theme-virgo](https://github.com/loveminimal/hugo-theme-virgo) - A simple  and pure theme.
-
 ## CSS
 
 *   [parsiya/Hugo-Octopress](https://github.com/parsiya/Hugo-Octopress) - Port of the classic Octopress theme to Hugo
@@ -247,6 +246,10 @@
 ## Solidity
 
 *   [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) - Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.
+
+## SCSS
+
+*   [loveminimal/hugo-theme-virgo](https://github.com/loveminimal/hugo-theme-virgo) - A simple  and pure theme.
 
 ## Dart
 
