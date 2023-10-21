@@ -4,13 +4,14 @@
 
 ## Table of Contents
 
+*   [Vim Script](#vim-script)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Lua](#lua)
 *   [C](#c)
 *   [TypeScript](#typescript)
-*   [Vim script](#vim-script)
+*   [Vim script](#vim-script-1)
 *   [JavaScript](#javascript)
 *   [PLpgSQL](#plpgsql)
 *   [Common Lisp](#common-lisp)
@@ -29,13 +30,15 @@
 *   [Vue](#vue)
 *   [Thanks](#thanks)
 
+## Vim Script
+
+*   [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
+
 ## Go
 
 *   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
 
 *   [mikespook/golib](https://github.com/mikespook/golib) -
-
-*   [mcuadros/go-syslog](https://github.com/mcuadros/go-syslog) - Syslog server library for go.
 
 *   [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
 
