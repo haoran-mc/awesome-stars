@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Vim Script](#vim-script)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
@@ -12,7 +13,6 @@
 *   [C](#c)
 *   [TypeScript](#typescript)
 *   [Vim script](#vim-script-1)
-*   [JavaScript](#javascript)
 *   [PLpgSQL](#plpgsql)
 *   [Common Lisp](#common-lisp)
 *   [Ruby](#ruby)
@@ -27,8 +27,13 @@
 *   [Org](#org)
 *   [Rust](#rust)
 *   [Markdown](#markdown)
-*   [Vue](#vue)
 *   [Thanks](#thanks)
+
+## JavaScript
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+*   [HenryTSZ/vuepress-blog](https://github.com/HenryTSZ/vuepress-blog) - blog
 
 ## Vim Script
 
@@ -204,10 +209,6 @@
 
 *   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
 
-## JavaScript
-
-*   [HenryTSZ/vuepress-blog](https://github.com/HenryTSZ/vuepress-blog) - blog
-
 ## PLpgSQL
 
 *   [digoal/blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
@@ -273,10 +274,6 @@
 ## Markdown
 
 *   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-
-## Vue
-
-*   [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) - 基于Golang的开源社区系统。
 
 ## Thanks
 
