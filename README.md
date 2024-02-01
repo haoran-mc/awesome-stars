@@ -4,20 +4,21 @@
 
 ## Table of Contents
 
-*   [Emacs Lisp](#emacs-lisp)
-*   [Kotlin](#kotlin)
-*   [Go](#go)
-*   [Vim Script](#vim-script)
-*   [miscellaneous](#miscellaneous)
-*   [TeX](#tex)
-*   [Python](#python)
-*   [YASnippet](#yasnippet)
 *   [Lua](#lua)
+*   [Vue](#vue)
+*   [C](#c)
+*   [Emacs Lisp](#emacs-lisp)
+*   [TypeScript](#typescript)
+*   [Go](#go)
+*   [miscellaneous](#miscellaneous)
+*   [Kotlin](#kotlin)
+*   [Vim Script](#vim-script)
+*   [TeX](#tex)
+*   [YASnippet](#yasnippet)
+*   [Python](#python)
 *   [HTML](#html)
 *   [Shell](#shell)
 *   [JavaScript](#javascript)
-*   [C](#c)
-*   [TypeScript](#typescript)
 *   [Vim script](#vim-script-1)
 *   [PLpgSQL](#plpgsql)
 *   [Common Lisp](#common-lisp)
@@ -30,13 +31,73 @@
 *   [Org](#org)
 *   [Rust](#rust)
 *   [Markdown](#markdown)
-*   [Vue](#vue)
 *   [Stylus](#stylus)
 *   [Makefile](#makefile)
-*   [Java](#java)
 *   [Thanks](#thanks)
 
+## Lua
+
+*   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
+
+*   [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓输入法（iOS）五笔输入法
+
+*   [ASC8384/myRime](https://github.com/ASC8384/myRime) - 我的 Rime 配置，适用于朙月拼音／小鹤双拼／小狼毫 ／ibus
+
+*   [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+
+*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+
+*   [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom NeoVim setup
+
+*   [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
+
+*   [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
+
+*   [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
+
+*   [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
+
+*   [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
+
+*   [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+
+*   [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
+
+*   [cworld1/nvim-config](https://github.com/cworld1/nvim-config) - My NeoVim configurations.
+
+*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
+
+*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+
+*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
+
+*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
+
+*   [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - My personal dotfiles, about neovim, zsh shell, tmux...
+
+## Vue
+
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+
+## C
+
+*   [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+
+*   [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org)
+
+*   [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
+
 ## Emacs Lisp
+
+*   [jojojames/dired-sidebar](https://github.com/jojojames/dired-sidebar) - Sidebar for Emacs leveraging Dired
+
+*   [mykyta-shyrin/cheatsheet](https://github.com/mykyta-shyrin/cheatsheet) -
+
+*   [jdtsmith/indent-bars](https://github.com/jdtsmith/indent-bars) - Fast, configurable indentation guide-bars for Emacs
+
+*   [jart/emacs-copilot](https://github.com/jart/emacs-copilot) - Large language model code completion for Emacs
 
 *   [nschum/window-numbering.el](https://github.com/nschum/window-numbering.el) - Emacs: Numbered window shortcuts
 
@@ -182,15 +243,19 @@
 
 *   [lryong/emacs-golang-conf](https://github.com/lryong/emacs-golang-conf) - Emacs configuration suitable for golang development
 
-*   [bastibe/org-static-blog](https://github.com/bastibe/org-static-blog) - A static site generator using org-mode
+## TypeScript
 
-## Kotlin
+*   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
 
-*   [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
+*   [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
+
+*   [geekris1/funnycode](https://github.com/geekris1/funnycode) -
+
+*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
 ## Go
 
-*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+*   [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind \*nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 
 *   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
 
@@ -207,6 +272,8 @@
 *   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 
 *   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
+
+*   [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) - 基于Golang的开源社区系统。
 
 *   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
 
@@ -240,39 +307,9 @@
 
 *   [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 
-*   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
-
-*   [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记
-
-*   [lu569368/struct](https://github.com/lu569368/struct) -
-
-*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-
-*   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
-
-*   [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) - 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
-
-*   [lifei6671/interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合
-
-*   [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
-
-*   [yqchilde/Golang-Interview](https://github.com/yqchilde/Golang-Interview) - Golang面试题，收集自Golang中文网，收集是为了自己可以巩固复习，不必要每次去找
-
-## Vim Script
-
-*   [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
-
-*   [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
-
-*   [tomnomnom/dotfiles](https://github.com/tomnomnom/dotfiles) - .vimrc, .bashrc etc
-
-*   [shushcat/vim-minimd](https://github.com/shushcat/vim-minimd) - A fast, folding Markdown outliner for Vim
-
-*   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
-
-*   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
-
 ## miscellaneous
+
+*   [ProgrammingHero1/100-plus-python-coding-problems-with-solutions](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions) - A list of python problems for beginners and intermediate developers
 
 *   [emacs-tw/emacs-101-beginner-survival-guide](https://github.com/emacs-tw/emacs-101-beginner-survival-guide) - Emacs 101 新手求生指南 - 一本讓你學 Emacs 不再學得靠北靠母的美好的新手求生指南
 
@@ -282,7 +319,7 @@
 
 *   [alhassy/ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs ---Editor MACroS.
 
-*   [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
+*   [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 
 *   [Gracker/Rss-IT](https://github.com/Gracker/Rss-IT) - 这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......
 
@@ -324,55 +361,41 @@
 
 *   [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
 
+## Kotlin
+
+*   [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
+
+## Vim Script
+
+*   [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
+
+*   [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
+
+*   [tomnomnom/dotfiles](https://github.com/tomnomnom/dotfiles) - .vimrc, .bashrc etc
+
+*   [shushcat/vim-minimd](https://github.com/shushcat/vim-minimd) - A fast, folding Markdown outliner for Vim
+
+*   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
+
+*   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer.
+
 ## TeX
 
 *   [kimim/orgmode-examples](https://github.com/kimim/orgmode-examples) - A demo of orgmode with beamer, plantuml
 
 *   [punchagan/resume](https://github.com/punchagan/resume) - Source files for my resume
 
-## Python
+## YASnippet
 
-*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+*   [nowislewis/nowisemacs](https://github.com/nowislewis/nowisemacs) - A full-blown emacs configuration framework with easy abstraction
+
+## Python
 
 *   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 
 *   [emacs-eaf/eaf-pdf-viewer](https://github.com/emacs-eaf/eaf-pdf-viewer) - Fastest PDF Viewer in Emacs
 
 *   [EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
-
-## YASnippet
-
-*   [nowislewis/nowisemacs](https://github.com/nowislewis/nowisemacs) - A full-blown emacs configuration framework with easy abstraction
-
-## Lua
-
-*   [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom NeoVim setup
-
-*   [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
-
-*   [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
-
-*   [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
-
-*   [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
-
-*   [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
-
-*   [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
-
-*   [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
-
-*   [cworld1/nvim-config](https://github.com/cworld1/nvim-config) - My NeoVim configurations.
-
-*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
-
-*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-
-*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
-
-*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
-
-*   [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - My personal dotfiles, about neovim, zsh shell, tmux...
 
 ## HTML
 
@@ -406,22 +429,6 @@
 
 *   [vouv/chat-room](https://github.com/vouv/chat-room) - 使用GO+Vue构建的聊天室网站
 
-*   [nnngu/LearningNotes](https://github.com/nnngu/LearningNotes) - 📚 一些记录~
-
-## C
-
-*   [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code) - Code from various chapters in OSTEP (http://www.ostep.org)
-
-*   [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
-
-## TypeScript
-
-*   [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
-
-*   [geekris1/funnycode](https://github.com/geekris1/funnycode) -
-
-*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
 ## Vim script
 
 *   [ajmwagar/vim-deus](https://github.com/ajmwagar/vim-deus) - 🌙 A better color scheme for the late night coder
@@ -429,8 +436,6 @@
 *   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
 
 *   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
-
-*   [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) -  Vim configuration in the 21st century
 
 ## PLpgSQL
 
@@ -480,10 +485,6 @@
 
 *   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
-## Vue
-
-*   [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) - 基于Golang的开源社区系统。
-
 ## Stylus
 
 *   [loveminimal/hexo-theme-zero](https://github.com/loveminimal/hexo-theme-zero) - A minimalism hexo theme.
@@ -491,10 +492,6 @@
 ## Makefile
 
 *   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-
-## Java
-
-*   [alexxiyang/shiro-redis](https://github.com/alexxiyang/shiro-redis) - shiro only provide the support of ehcache and concurrentHashMap. Here is an implement of redis cache can be used by shiro. Hope it will help you!
 
 ## Thanks
 
