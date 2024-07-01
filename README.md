@@ -4,16 +4,19 @@
 
 ## Table of Contents
 
-*   [Lua](#lua)
 *   [Emacs Lisp](#emacs-lisp)
-*   [Go](#go)
+*   [Objective-C](#objective-c)
 *   [Python](#python)
+*   [Ruby](#ruby)
+*   [Crystal](#crystal)
+*   [Go](#go)
+*   [CSS](#css)
+*   [Shell](#shell)
+*   [Lua](#lua)
 *   [Vim Script](#vim-script)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
-*   [Shell](#shell)
-*   [Ruby](#ruby)
 *   [Typst](#typst)
 *   [Clojure](#clojure)
 *   [Kotlin](#kotlin)
@@ -28,7 +31,6 @@
 *   [PLpgSQL](#plpgsql)
 *   [Common Lisp](#common-lisp)
 *   [C++](#c-1)
-*   [CSS](#css)
 *   [Solidity](#solidity)
 *   [SCSS](#scss)
 *   [Dart](#dart)
@@ -36,51 +38,21 @@
 *   [Markdown](#markdown)
 *   [Thanks](#thanks)
 
-## Lua
-
-*   [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
-
-*   [cpea2506/one\_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
-
-*   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
-
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
-
-*   [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
-
-*   [ASC8384/myRime](https://github.com/ASC8384/myRime) - 我的 Rime 配置，适用于朙月拼音／小鹤双拼／小狼毫 ／ibus / MacOS
-
-*   [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
-
-*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-
-*   [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom NeoVim setup
-
-*   [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
-
-*   [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
-
-*   [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
-
-*   [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
-
-*   [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
-
-*   [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
-
-*   [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
-
-*   [cworld1/nvim-config](https://github.com/cworld1/nvim-config) - My NeoVim configurations.
-
-*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
-
-*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-
-*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
-
-*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
-
 ## Emacs Lisp
+
+*   [universal-ctags/citre](https://github.com/universal-ctags/citre) - A superior code reading & auto-completion tool with pluggable backends.
+
+*   [shuxiao9058/tabnine](https://github.com/shuxiao9058/tabnine) - An unofficial TabNine package for Emacs with TabNine Chat Supported
+
+*   [zbelial/lspce](https://github.com/zbelial/lspce) - LSP Client for Emacs implemented as a module using rust.
+
+*   [ginqi7/plantuml-emacs](https://github.com/ginqi7/plantuml-emacs) - A plantuml plugin for Emacs
+
+*   [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
+
+*   [Elilif/org-count-words](https://github.com/Elilif/org-count-words) - Count words in org-mode.
+
+*   [lepisma/pile](https://github.com/lepisma/pile) - Personal website generator based on Org mode
 
 *   [lorniu/go-translate](https://github.com/lorniu/go-translate) - Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, ChatGPT, StarDict, Youdao and so on.
 
@@ -126,12 +98,6 @@
 
 *   [kimim/kimim-emacs](https://github.com/kimim/kimim-emacs) - my emacs init configuration files
 
-*   [fgeller/highlight-thing.el](https://github.com/fgeller/highlight-thing.el) - Emacs global minor mode to highlight thing under point.
-
-*   [dholm/benchmark-init-el](https://github.com/dholm/benchmark-init-el) - Benchmark your Emacs initialization
-
-*   [meow-edit/meow](https://github.com/meow-edit/meow) - Yet another modal editing on Emacs / 猫态编辑
-
 *   [zerolee/.emacs.d](https://github.com/zerolee/.emacs.d) - 我个人的 .emacs.d
 
 *   [lccambiaghi/vanilla-emacs](https://github.com/lccambiaghi/vanilla-emacs) -
@@ -141,8 +107,6 @@
 *   [nasyxx/emacs-nasy-theme](https://github.com/nasyxx/emacs-nasy-theme) - Nasy's Emacs Theme 外皃
 
 *   [tshu-w/.emacs.d](https://github.com/tshu-w/.emacs.d) - My personal Emacs config, originally from Spacemacs
-
-*   [sulami/literate-calc-mode.el](https://github.com/sulami/literate-calc-mode.el) - 🧮 Literate programming for M-x calc
 
 *   [alphapapa/org-ql](https://github.com/alphapapa/org-ql) - A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.
 
@@ -166,31 +130,19 @@
 
 *   [rougier/notes-list](https://github.com/rougier/notes-list) - Emacs notes list
 
-*   [ginqi7/plantuml-emacs](https://github.com/ginqi7/plantuml-emacs) - A plantuml plugin for Emacs
-
 *   [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) - Emacs libvterm integration
 
-*   [quelpa/quelpa-use-package](https://github.com/quelpa/quelpa-use-package) - Emacs quelpa handler for use-package
-
 *   [nordtheme/emacs](https://github.com/nordtheme/emacs) - An arctic, north-bluish clean and elegant Emacs theme.
-
-*   [legalnonsense/elgantt](https://github.com/legalnonsense/elgantt) - A Gantt Chart (Calendar) for Org Mode
 
 *   [hick/emacs-chinese](https://github.com/hick/emacs-chinese) - Emacs相关中文问题以及解决方案
 
 *   [emacsmirror/org-contrib](https://github.com/emacsmirror/org-contrib) - Unmaintained add-ons for Org-mode
 
-*   [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
-
 *   [guidoschmidt/circadian.el](https://github.com/guidoschmidt/circadian.el) - Theme-switching for Emacs based on daytime
 
 *   [joostkremers/writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 
-*   [abo-abo/hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
-
 *   [emacsfodder/emacs-theme-darktooth](https://github.com/emacsfodder/emacs-theme-darktooth) - Darktooth : From the darkness... it watches.
-
-*   [Lambda-Emacs/lambda-line](https://github.com/Lambda-Emacs/lambda-line) - A configurable status line for Emacs
 
 *   [MatthewZMD/.emacs.d](https://github.com/MatthewZMD/.emacs.d) - M-EMACS, a full-featured GNU Emacs configuration distribution
 
@@ -208,25 +160,55 @@
 
 *   [larstvei/Focus](https://github.com/larstvei/Focus) - Dim the font color of text in surrounding paragraphs
 
-*   [casouri/valign](https://github.com/casouri/valign) - Pixel-perfect visual alignment for Org and Markdown tables.
-
 *   [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
 
 *   [howardabrams/dot-files](https://github.com/howardabrams/dot-files) - My Emacs initialization code and standard scripts I use for client and servers alike.
 
 *   [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 
-*   [noctuid/general.el](https://github.com/noctuid/general.el) - More convenient key definitions in emacs
-
 *   [manateelazycat/lazycat-emacs](https://github.com/manateelazycat/lazycat-emacs) - Andy Stewart's emacs
 
 *   [emacsfodder/emacs-soothe-theme](https://github.com/emacsfodder/emacs-soothe-theme) - Dark Colorful theme for Emacs, built for synesthesiacs with a taste for Skittles™.
 
-*   [magnars/expand-region.el](https://github.com/magnars/expand-region.el) - Emacs extension to increase selected region by semantic units.
-
 *   [loveminimal/emacs.d](https://github.com/loveminimal/emacs.d) - All in emacs.
 
+*   [manateelazycat/awesome-tray](https://github.com/manateelazycat/awesome-tray) - Hide mode-line, display necessary information at right of minibuffer.
+
+## Objective-C
+
+*   [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
+
+## Python
+
+*   [manateelazycat/holo-layer](https://github.com/manateelazycat/holo-layer) - HoloLayer is a multimedia layer plugin designed specifically for Emacs
+
+*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+
+*   [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim) - :file\_folder: The dark powered file explorer implementation for neovim/Vim8
+
+*   [TheZoq2/neovim-auto-autoread](https://github.com/TheZoq2/neovim-auto-autoread) - Plugin that makes autoread actually work as expected in neovim
+
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
+
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
+
+*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
+
+*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+
+## Ruby
+
+*   [schasse/tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like navigation for tmux.
+
+*   [Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy) - Rime输入法安装脚本，让一切更轻松。Make using Rime easy.
+
+## Crystal
+
+*   [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
+
 ## Go
+
+*   [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
 
 *   [slongfield/pyfmt](https://github.com/slongfield/pyfmt) - Golang implementation of PEP3101
 
@@ -268,23 +250,71 @@
 
 *   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
 
-## Python
+## CSS
 
-*   [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+*   [DogLooksGood/org-html-themify](https://github.com/DogLooksGood/org-html-themify) - Themify org-mode HTML export with installed color theme.
 
-*   [Shougo/defx.nvim](https://github.com/Shougo/defx.nvim) - :file\_folder: The dark powered file explorer implementation for neovim/Vim8
+*   [parsiya/Hugo-Octopress](https://github.com/parsiya/Hugo-Octopress) - Port of the classic Octopress theme to Hugo
 
-*   [TheZoq2/neovim-auto-autoread](https://github.com/TheZoq2/neovim-auto-autoread) - Plugin that makes autoread actually work as expected in neovim
+*   [MeiK2333/github-style](https://github.com/MeiK2333/github-style) -
 
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
+*   [jimmykuu/gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 
-*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
+## Shell
 
-*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
+*   [prosegrinder/pandoc-templates](https://github.com/prosegrinder/pandoc-templates) - An opinionated set of Pandoc templates and scripts for converting markdown to DOCX manuscripts that adhere to William Shunn's Proper Manuscript Format guidelines using Pandoc.
 
-*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+*   [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 
-*   [emacs-eaf/eaf-pdf-viewer](https://github.com/emacs-eaf/eaf-pdf-viewer) - Fastest PDF Viewer in Emacs
+*   [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
+
+*   [mritd/shell\_scripts](https://github.com/mritd/shell_scripts) - 常用的一些 shell 脚本
+
+## Lua
+
+*   [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+
+*   [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
+
+*   [cpea2506/one\_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim) - One Monokai for Neovim
+
+*   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
+
+*   [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
+
+*   [ASC8384/myRime](https://github.com/ASC8384/myRime) - 我的 Rime 配置，适用于朙月拼音／小鹤双拼／小狼毫 ／ibus / MacOS
+
+*   [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+
+*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+
+*   [echasnovski/nvim](https://github.com/echasnovski/nvim) - My custom NeoVim setup
+
+*   [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
+
+*   [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
+
+*   [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
+
+*   [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
+
+*   [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
+
+*   [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
+
+*   [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
+
+*   [cworld1/nvim-config](https://github.com/cworld1/nvim-config) - My NeoVim configurations.
+
+*   [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
+
+*   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+
+*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
+
+*   [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 
 ## Vim Script
 
@@ -334,22 +364,6 @@
 
 *   [HenryTSZ/vuepress-blog](https://github.com/HenryTSZ/vuepress-blog) - blog
 
-## Shell
-
-*   [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
-
-*   [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
-
-*   [mritd/shell\_scripts](https://github.com/mritd/shell_scripts) - 常用的一些 shell 脚本
-
-## Ruby
-
-*   [Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy) - Rime输入法安装脚本，让一切更轻松。Make using Rime easy.
-
-*   [railwaycat/homebrew-emacsmacport](https://github.com/railwaycat/homebrew-emacsmacport) - Emacs mac port formulae for the Homebrew package manager
-
-*   [d12frosted/homebrew-emacs-plus](https://github.com/d12frosted/homebrew-emacs-plus) - Emacs Plus formulae for the Homebrew package manager
-
 ## Typst
 
 *   [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
@@ -380,7 +394,7 @@
 
 *   [SexyBeast233/SecDictionary](https://github.com/SexyBeast233/SecDictionary) - 实战沉淀字典
 
-*   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入法方案和配置列表
+*   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表
 
 *   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
 
@@ -406,10 +420,6 @@
 
 *   [glepnir/nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) - https://github.com/nanotee/nvim-lua-guide chinese version
 
-*   [Aightech/org-gantt-svg](https://github.com/Aightech/org-gantt-svg) -
-
-*   [elsatch/org-timeline-viewer](https://github.com/elsatch/org-timeline-viewer) - Org-timeline-viewer is an interactive timeline visualization generated from Org-mode files.
-
 *   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
 
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -417,6 +427,8 @@
 *   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
 
 *   [emacs-china/hello-emacs](https://github.com/emacs-china/hello-emacs) - emacs新手入门资料汇集地
+
+*   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 
 ## VimL
 
@@ -456,6 +468,8 @@
 
 *   [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) - A fast, responsive, multipurpose and feature-rich Hugo theme.
 
+*   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
+
 ## PLpgSQL
 
 *   [digoal/blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
@@ -467,14 +481,6 @@
 ## C++
 
 *   [ihameed/task-homie](https://github.com/ihameed/task-homie) -
-
-## CSS
-
-*   [parsiya/Hugo-Octopress](https://github.com/parsiya/Hugo-Octopress) - Port of the classic Octopress theme to Hugo
-
-*   [MeiK2333/github-style](https://github.com/MeiK2333/github-style) -
-
-*   [jimmykuu/gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 
 ## Solidity
 
