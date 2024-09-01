@@ -41,6 +41,30 @@
 
 ## Emacs Lisp
 
+*   [uk-ar/smart-region](https://github.com/uk-ar/smart-region) -
+
+*   [bbatsov/solarized-emacs](https://github.com/bbatsov/solarized-emacs) - The Solarized colour theme, ported to Emacs.
+
+*   [garyo/emacs-config](https://github.com/garyo/emacs-config) - Emacs configuration
+
+*   [jdtsmith/outli](https://github.com/jdtsmith/outli) - Simple comment-based outline folding for Emacs
+
+*   [opsnull/emacs](https://github.com/opsnull/emacs) -
+
+*   [gregsexton/origami.el](https://github.com/gregsexton/origami.el) - A folding minor mode for Emacs
+
+*   [nex3/perspective-el](https://github.com/nex3/perspective-el) - Perspectives for Emacs.
+
+*   [ema2159/centaur-tabs](https://github.com/ema2159/centaur-tabs) - Emacs plugin aiming to become an aesthetic, modern looking tabs plugin
+
+*   [Fanael/highlight-quoted](https://github.com/Fanael/highlight-quoted) - Highlight Lisp quotes and quoted symbols
+
+*   [matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold) - Vim-like text folding for Emacs
+
+*   [sabof/stripe-buffer](https://github.com/sabof/stripe-buffer) - add stripes to "list" buffers
+
+*   [jwiegley/dot-emacs](https://github.com/jwiegley/dot-emacs) - My .emacs.el file and other personal Emacs goodies
+
 *   [kazu-yamamoto/Mew](https://github.com/kazu-yamamoto/Mew) - Messaging in the Emacs World
 
 *   [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
@@ -173,10 +197,6 @@
 
 *   [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
 
-*   [manateelazycat/lazycat-emacs](https://github.com/manateelazycat/lazycat-emacs) - Andy Stewart's emacs
-
-*   [loveminimal/emacs.d](https://github.com/loveminimal/emacs.d) - All in emacs.
-
 ## TypeScript
 
 *   [baku89/glisp](https://github.com/baku89/glisp) - Glisp is a Lisp-based design tool that combines generative approaches with traditional design methods, empowering artists to discover new forms of expression.
@@ -211,7 +231,7 @@
 
 *   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 
-*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
+*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫
 
 *   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 
@@ -244,8 +264,6 @@
 *   [GreyZhang/g\_lisp](https://github.com/GreyZhang/g_lisp) - my hacking trip on lisp
 
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-
-*   [liujiming789/The-Art-of-Computer-Programming](https://github.com/liujiming789/The-Art-of-Computer-Programming) - 计算机程序设计的艺术
 
 ## Go
 
@@ -280,18 +298,6 @@
 *   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
 
 *   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-
-*   [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-
-*   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
-
-*   [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) - 基于Golang的开源社区系统。简洁对话，高效互动，社区新体验！
-
-*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
-
-*   [chalvern/apollo](https://github.com/chalvern/apollo) - 更实用的 Go 开发的社区(论坛)，Better use of Go development community (forum) http://www.jianzhoubian.com
-
-*   [ego008/goyoubbs](https://github.com/ego008/goyoubbs) - goyoubbs is an open source web forum built on Golang, fasthttp and leveldb.
 
 ## Shell
 
@@ -359,8 +365,6 @@
 
 *   [MeiK2333/github-style](https://github.com/MeiK2333/github-style) -
 
-*   [jimmykuu/gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
-
 ## Lua
 
 *   [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -417,10 +421,6 @@
 
 *   [shushcat/vim-minimd](https://github.com/shushcat/vim-minimd) - A fast, folding Markdown outliner for Vim
 
-*   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
-
-*   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer. 最实用的vim配置🔥
-
 ## Typst
 
 *   [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher) - Typst package for drawing diagrams with arrows, built on top of CeTZ.
@@ -447,7 +447,7 @@
 
 ## Vue
 
-*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+*   [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 
 ## TeX
 
@@ -475,7 +475,7 @@
 
 ## PLpgSQL
 
-*   [digoal/blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
+*   [digoal/blog](https://github.com/digoal/blog) - Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
 
 ## Common Lisp
 
