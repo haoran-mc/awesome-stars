@@ -5,11 +5,11 @@
 ## Table of Contents
 
 *   [Emacs Lisp](#emacs-lisp)
+*   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Batchfile](#batchfile)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [Go](#go)
 *   [Shell](#shell)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
@@ -36,10 +36,19 @@
 *   [SCSS](#scss)
 *   [Dart](#dart)
 *   [Org](#org)
-*   [Markdown](#markdown)
 *   [Thanks](#thanks)
 
 ## Emacs Lisp
+
+*   [eval-exec/eee.el](https://github.com/eval-exec/eee.el) - Launch TUI commands in an external terminal asynchronously, seamlessly integrating callbacks within Emacs. Elevate your Emacs experience with eee.el
+
+*   [emacsorphanage/quickrun](https://github.com/emacsorphanage/quickrun) - Run command quickly. This packages is inspired quickrun.vim
+
+*   [kickingvegas/casual-symbol-overlay](https://github.com/kickingvegas/casual-symbol-overlay) - Casual Symbol Overlay - An opinionated Transient user interface for the Emacs package Symbol Overlay.
+
+*   [minad/cape](https://github.com/minad/cape) - 🦸cape.el - Completion At Point Extensions
+
+*   [jdtsmith/ultra-scroll-mac](https://github.com/jdtsmith/ultra-scroll-mac) - scroll emacs-mac like lightning
 
 *   [uk-ar/smart-region](https://github.com/uk-ar/smart-region) -
 
@@ -157,7 +166,7 @@
 
 *   [twlz0ne/with-proxy.el](https://github.com/twlz0ne/with-proxy.el) - Evaluate expressions with proxy
 
-*   [Theory-of-Everything/everforest-emacs](https://github.com/Theory-of-Everything/everforest-emacs) - read-only mirror of https://git.sr.ht/~theorytoe/everforest-theme
+*   [Theory-of-Everything/everforest-emacs](https://github.com/Theory-of-Everything/everforest-emacs) - everforest for emacs!
 
 *   [dakra/dmacs](https://github.com/dakra/dmacs) - Emacs Literate Configuration with borg
 
@@ -187,15 +196,43 @@
 
 *   [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 
-*   [wandersoncferreira/code-review](https://github.com/wandersoncferreira/code-review) - Code Reviews in Emacs
+## Go
 
-*   [larstvei/Focus](https://github.com/larstvei/Focus) - Dim the font color of text in surrounding paragraphs
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
-*   [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
+*   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 
-*   [howardabrams/dot-files](https://github.com/howardabrams/dot-files) - My Emacs initialization code and standard scripts I use for client and servers alike.
+*   [picosh/git-pr](https://github.com/picosh/git-pr) - the easiest git collaboration tool
 
-*   [manateelazycat/aweshell](https://github.com/manateelazycat/aweshell) - Awesome shell extension base on eshell with wonderful features!
+*   [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
+
+*   [slongfield/pyfmt](https://github.com/slongfield/pyfmt) - Golang implementation of PEP3101
+
+*   [vektah/gqlparser](https://github.com/vektah/gqlparser) - A port of the parser from graphql-js into golang
+
+*   [myzhan/goreplay-udp](https://github.com/myzhan/goreplay-udp) - goreplay-udp is copycat of goreplay, works on UDP tracffic.
+
+*   [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
+
+*   [xalanq/cf-tool](https://github.com/xalanq/cf-tool) - :bar\_chart: Codeforces CLI (Submit, Parse, Test, etc.). Support Contests, Gym, Groups, acmsguru, Windows, macOS, Linux, 7 MB
+
+*   [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
+
+*   [h2non/filetype](https://github.com/h2non/filetype) - Fast, dependency-free Go package to infer binary file types based on the magic numbers header signature
+
+*   [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind \*nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
+
+*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
+
+*   [mikespook/golib](https://github.com/mikespook/golib) -
+
+*   [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
+
+*   [goflyfox/gfstudy](https://github.com/goflyfox/gfstudy) - go frame框架基础介绍
+
+*   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
+
+*   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 
 ## TypeScript
 
@@ -231,7 +268,7 @@
 
 *   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 
-*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫
+*   [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 
 *   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 
@@ -265,40 +302,6 @@
 
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
-## Go
-
-*   [picosh/git-pr](https://github.com/picosh/git-pr) - the easiest git collaboration tool
-
-*   [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
-
-*   [slongfield/pyfmt](https://github.com/slongfield/pyfmt) - Golang implementation of PEP3101
-
-*   [vektah/gqlparser](https://github.com/vektah/gqlparser) - A port of the parser from graphql-js into golang
-
-*   [myzhan/goreplay-udp](https://github.com/myzhan/goreplay-udp) - goreplay-udp is copycat of goreplay, works on UDP tracffic.
-
-*   [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
-
-*   [xalanq/cf-tool](https://github.com/xalanq/cf-tool) - :bar\_chart: Codeforces CLI (Submit, Parse, Test, etc.). Support Contests, Gym, Groups, acmsguru, Windows, macOS, Linux, 7 MB
-
-*   [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
-
-*   [h2non/filetype](https://github.com/h2non/filetype) - Fast, dependency-free Go package to infer binary file types based on the magic numbers header signature
-
-*   [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind \*nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
-
-*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
-
-*   [mikespook/golib](https://github.com/mikespook/golib) -
-
-*   [fvbock/endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe)
-
-*   [goflyfox/gfstudy](https://github.com/goflyfox/gfstudy) - go frame框架基础介绍
-
-*   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
-
-*   [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-
 ## Shell
 
 *   [arloor/iptablesUtils](https://github.com/arloor/iptablesUtils) - iptables转发ddns域名
@@ -320,8 +323,6 @@
 *   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 
 *   [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
-
-*   [sloganking/codevis](https://github.com/sloganking/codevis) - Turns your code into one large image
 
 ## JavaScript
 
@@ -407,7 +408,7 @@
 
 *   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 
-*   [webfrogs/nvim](https://github.com/webfrogs/nvim) - my neovim configuration repository
+*   [webfrogs/nvim-old](https://github.com/webfrogs/nvim-old) - my neovim configuration repository
 
 ## Vim Script
 
@@ -495,15 +496,11 @@
 
 ## Dart
 
-*   [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
+*   [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 
 ## Org
 
 *   [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs. Mirror of https://git.tecosaur.net/tec/emacs-config.
-
-## Markdown
-
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Thanks
 
