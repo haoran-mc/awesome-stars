@@ -4,15 +4,15 @@
 
 ## Table of Contents
 
-*   [Go](#go)
-*   [TypeScript](#typescript)
-*   [Emacs Lisp](#emacs-lisp)
 *   [Vim Script](#vim-script)
+*   [Python](#python)
+*   [Go](#go)
+*   [Emacs Lisp](#emacs-lisp)
+*   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [Zig](#zig)
 *   [Vue](#vue)
 *   [Lua](#lua)
-*   [Python](#python)
 *   [Shell](#shell)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
@@ -26,7 +26,47 @@
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
 
+## Vim Script
+
+*   [cohama/lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat by dot dot dot...
+
+*   [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate) - Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
+
+*   [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
+
+*   [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
+
+*   [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
+
+*   [tomnomnom/dotfiles](https://github.com/tomnomnom/dotfiles) - .vimrc, .bashrc etc
+
+*   [shushcat/vim-minimd](https://github.com/shushcat/vim-minimd) - A fast, folding Markdown outliner for Vim
+
+*   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
+
+*   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer. 最实用的vim配置🔥
+
+## Python
+
+*   [jwiegley/rag-agent](https://github.com/jwiegley/rag-agent) - Some exploratory code for playing with RAG and agentic framework
+
+*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+
+*   [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
+
+*   [arkohut/pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally.
+
+*   [zilongshanren/dotfiles](https://github.com/zilongshanren/dotfiles) - vim,zsh,tmux,git, ctags, ag, jshint, emacs and more
+
+*   [manateelazycat/holo-layer](https://github.com/manateelazycat/holo-layer) - HoloLayer is a multimedia layer plugin designed specifically for Emacs
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
+
 ## Go
+
+*   [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
+
+*   [florianl/go-tc](https://github.com/florianl/go-tc) - traffic control in pure go - it allows to read and alter queues, filters and classes
 
 *   [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 
@@ -50,7 +90,7 @@
 
 *   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 
-*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
+*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 基于 gin 的简易社区
 
 *   [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Perform TCP handshake without ACK in Go, useful for health check, that is SYN, SYN-ACK, RST.
 
@@ -58,29 +98,11 @@
 
 *   [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
 
-*   [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
-
-*   [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
-
-*   [lu569368/struct](https://github.com/lu569368/struct) -
-
-## TypeScript
-
-*   [danvk/webtreemap](https://github.com/danvk/webtreemap) - CLI to quickly get a treemap visualization
-
-*   [visprex/visprex](https://github.com/visprex/visprex) - Visualise your CSV files in seconds without sending your data anywhere
-
-*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
-
-*   [baku89/glisp](https://github.com/baku89/glisp) - Glisp is a Lisp-based design tool that combines generative approaches with traditional design methods, empowering artists to discover new forms of expression.
-
-*   [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
-
-*   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
-
 ## Emacs Lisp
 
-*   [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Codestral, and more.
+*   [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Vanilla Emacs Defaults and Optimized Startup
+
+*   [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 
 *   [tninja/aider.el](https://github.com/tninja/aider.el) - aider emacs plugin for https://github.com/paul-gauthier/aider
 
@@ -136,23 +158,19 @@
 
 *   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
 
-*   [bastibe/org-static-blog](https://github.com/bastibe/org-static-blog) - A static site generator using org-mode
+## TypeScript
 
-## Vim Script
+*   [danvk/webtreemap](https://github.com/danvk/webtreemap) - CLI to quickly get a treemap visualization
 
-*   [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
+*   [visprex/visprex](https://github.com/visprex/visprex) - Visualise your CSV files in seconds without sending your data anywhere
 
-*   [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
+*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
 
-*   [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
+*   [baku89/glisp](https://github.com/baku89/glisp) - Glisp is a Lisp-based design tool that combines generative approaches with traditional design methods, empowering artists to discover new forms of expression.
 
-*   [tomnomnom/dotfiles](https://github.com/tomnomnom/dotfiles) - .vimrc, .bashrc etc
+*   [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 
-*   [shushcat/vim-minimd](https://github.com/shushcat/vim-minimd) - A fast, folding Markdown outliner for Vim
-
-*   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
-
-*   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer. 最实用的vim配置🔥
+*   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
 
 ## Kotlin
 
@@ -184,16 +202,6 @@
 
 *   [cworld1/nvim-config](https://github.com/cworld1/nvim-config) - My NeoVim configurations.
 
-## Python
-
-*   [arkohut/pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally.
-
-*   [zilongshanren/dotfiles](https://github.com/zilongshanren/dotfiles) - vim,zsh,tmux,git, ctags, ag, jshint, emacs and more
-
-*   [manateelazycat/holo-layer](https://github.com/manateelazycat/holo-layer) - HoloLayer is a multimedia layer plugin designed specifically for Emacs
-
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
-
 ## Shell
 
 *   [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
@@ -217,8 +225,6 @@
 ## JavaScript
 
 *   [manateelazycat/popweb](https://github.com/manateelazycat/popweb) - Show popup web window for Emacs
-
-*   [vouv/chat-room](https://github.com/vouv/chat-room) - 使用GO+Vue构建的聊天室网站
 
 ## CSS
 
@@ -247,8 +253,6 @@
 *   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
 
 *   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
-
-*   [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) -  Vim configuration in the 21st century
 
 ## Common Lisp
 
