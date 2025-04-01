@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Vim Script](#vim-script)
 *   [Python](#python)
 *   [Go](#go)
 *   [Emacs Lisp](#emacs-lisp)
-*   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [Zig](#zig)
 *   [Vue](#vue)
@@ -26,7 +26,25 @@
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
 
+## TypeScript
+
+*   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+
+*   [danvk/webtreemap](https://github.com/danvk/webtreemap) - CLI to quickly get a treemap visualization
+
+*   [visprex/visprex](https://github.com/visprex/visprex) - Visualise your CSV files in seconds without sending your data anywhere
+
+*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
+
+*   [baku89/glisp](https://github.com/baku89/glisp) - Glisp is a Lisp-based design tool that combines generative approaches with traditional design methods, empowering artists to discover new forms of expression.
+
+*   [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
+
+*   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
+
 ## Vim Script
+
+*   [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
 
 *   [cohama/lexima.vim](https://github.com/cohama/lexima.vim) - Auto close parentheses and repeat by dot dot dot...
 
@@ -78,7 +96,7 @@
 
 *   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
-*   [picosh/git-pr](https://github.com/picosh/git-pr) - the easiest git collaboration tool
+*   [picosh/git-pr](https://github.com/picosh/git-pr) - A pastebin supercharged for git collaboration
 
 *   [myzhan/goreplay-udp](https://github.com/myzhan/goreplay-udp) - goreplay-udp is copycat of goreplay, works on UDP tracffic.
 
@@ -96,15 +114,11 @@
 
 *   [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 
-*   [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
-
 ## Emacs Lisp
 
-*   [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Vanilla Emacs Defaults and Optimized Startup
+*   [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Starter-Kit with Better Emacs Defaults and Faster Startup
 
-*   [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
-
-*   [tninja/aider.el](https://github.com/tninja/aider.el) - aider emacs plugin for https://github.com/paul-gauthier/aider
+*   [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 
 *   [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
 
@@ -157,20 +171,6 @@
 *   [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
 
 *   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
-
-## TypeScript
-
-*   [danvk/webtreemap](https://github.com/danvk/webtreemap) - CLI to quickly get a treemap visualization
-
-*   [visprex/visprex](https://github.com/visprex/visprex) - Visualise your CSV files in seconds without sending your data anywhere
-
-*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
-
-*   [baku89/glisp](https://github.com/baku89/glisp) - Glisp is a Lisp-based design tool that combines generative approaches with traditional design methods, empowering artists to discover new forms of expression.
-
-*   [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
-
-*   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
 
 ## Kotlin
 
