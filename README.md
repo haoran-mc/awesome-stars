@@ -4,9 +4,10 @@
 
 ## Table of Contents
 
+*   [Objective-C](#objective-c)
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Vim Script](#vim-script)
-*   [Python](#python)
 *   [Go](#go)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Kotlin](#kotlin)
@@ -25,6 +26,26 @@
 *   [HTML](#html)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## Objective-C
+
+*   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
+
+## Python
+
+*   [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
+
+*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+
+*   [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
+
+*   [arkohut/pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally.
+
+*   [zilongshanren/dotfiles](https://github.com/zilongshanren/dotfiles) - vim,zsh,tmux,git, ctags, ag, jshint, emacs and more
+
+*   [manateelazycat/holo-layer](https://github.com/manateelazycat/holo-layer) - HoloLayer is a multimedia layer plugin designed specifically for Emacs
+
+*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
 
 ## TypeScript
 
@@ -64,22 +85,6 @@
 
 *   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer. 最实用的vim配置🔥
 
-## Python
-
-*   [jwiegley/rag-agent](https://github.com/jwiegley/rag-agent) - Some exploratory code for playing with RAG and agentic framework
-
-*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-
-*   [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
-
-*   [arkohut/pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally.
-
-*   [zilongshanren/dotfiles](https://github.com/zilongshanren/dotfiles) - vim,zsh,tmux,git, ctags, ag, jshint, emacs and more
-
-*   [manateelazycat/holo-layer](https://github.com/manateelazycat/holo-layer) - HoloLayer is a multimedia layer plugin designed specifically for Emacs
-
-*   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
-
 ## Go
 
 *   [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
@@ -112,11 +117,9 @@
 
 *   [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Perform TCP handshake without ACK in Go, useful for health check, that is SYN, SYN-ACK, RST.
 
-*   [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
-
 ## Emacs Lisp
 
-*   [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Starter-Kit with Better Emacs Defaults and Faster Startup
+*   [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
 
 *   [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 
