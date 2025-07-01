@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [C](#c)
 *   [Objective-C](#objective-c)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -16,7 +18,6 @@
 *   [Lua](#lua)
 *   [Shell](#shell)
 *   [Rust](#rust)
-*   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [Typst](#typst)
 *   [miscellaneous](#miscellaneous)
@@ -24,8 +25,21 @@
 *   [Vim script](#vim-script-1)
 *   [Common Lisp](#common-lisp)
 *   [HTML](#html)
-*   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## JavaScript
+
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
+
+*   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+
+*   [kobalab/Majiang](https://github.com/kobalab/Majiang) - HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
+
+*   [manateelazycat/popweb](https://github.com/manateelazycat/popweb) - Show popup web window for Emacs
+
+## C
+
+*   [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 
 ## Objective-C
 
@@ -101,8 +115,6 @@
 
 *   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
-*   [picosh/git-pr](https://github.com/picosh/git-pr) - A pastebin supercharged for git collaboration
-
 *   [myzhan/goreplay-udp](https://github.com/myzhan/goreplay-udp) - goreplay-udp is copycat of goreplay, works on UDP tracffic.
 
 *   [xalanq/cf-tool](https://github.com/xalanq/cf-tool) - :bar\_chart: Codeforces CLI (Submit, Parse, Test, etc.). Support Contests, Gym, Groups, acmsguru, Windows, macOS, Linux, 7 MB
@@ -114,8 +126,6 @@
 *   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 
 *   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 基于 gin 的简易社区
-
-*   [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Perform TCP handshake without ACK in Go, useful for health check, that is SYN, SYN-ACK, RST.
 
 ## Emacs Lisp
 
@@ -173,8 +183,6 @@
 
 *   [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
 
-*   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
-
 ## Kotlin
 
 *   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
@@ -225,10 +233,6 @@
 
 *   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 
-## JavaScript
-
-*   [manateelazycat/popweb](https://github.com/manateelazycat/popweb) - Show popup web window for Emacs
-
 ## CSS
 
 *   [DogLooksGood/org-html-themify](https://github.com/DogLooksGood/org-html-themify) - Themify org-mode HTML export with installed color theme.
@@ -264,10 +268,6 @@
 ## HTML
 
 *   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
-
-## Makefile
-
-*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Thanks
 
