@@ -4,16 +4,17 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [C](#c)
+*   [Stylus](#stylus)
 *   [Objective-C](#objective-c)
-*   [Python](#python)
-*   [TypeScript](#typescript)
 *   [Vim Script](#vim-script)
 *   [Go](#go)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Kotlin](#kotlin)
-*   [Zig](#zig)
 *   [Vue](#vue)
 *   [Lua](#lua)
 *   [Shell](#shell)
@@ -24,28 +25,12 @@
 *   [TeX](#tex)
 *   [Vim script](#vim-script-1)
 *   [Common Lisp](#common-lisp)
-*   [HTML](#html)
+*   [Makefile](#makefile)
 *   [Thanks](#thanks)
 
-## JavaScript
-
-*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
-
-*   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
-
-*   [kobalab/Majiang](https://github.com/kobalab/Majiang) - HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
-
-*   [manateelazycat/popweb](https://github.com/manateelazycat/popweb) - Show popup web window for Emacs
-
-## C
-
-*   [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
-
-## Objective-C
-
-*   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
-
 ## Python
+
+*   [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 
 *   [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 
@@ -61,7 +46,13 @@
 
 *   [LufsX/rime](https://github.com/LufsX/rime) - Rime（中州韵）全拼与双拼的自用配置方案
 
+## Jupyter Notebook
+
+*   [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
+
 ## TypeScript
+
+*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 
 *   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 
@@ -69,13 +60,31 @@
 
 *   [visprex/visprex](https://github.com/visprex/visprex) - Visualise your CSV files in seconds without sending your data anywhere
 
-*   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock
-
 *   [baku89/glisp](https://github.com/baku89/glisp) - Glisp is a Lisp-based design tool that combines generative approaches with traditional design methods, empowering artists to discover new forms of expression.
 
 *   [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 
 *   [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
+
+## JavaScript
+
+*   [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
+
+*   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+
+*   [manateelazycat/popweb](https://github.com/manateelazycat/popweb) - Show popup web window for Emacs
+
+## C
+
+*   [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
+
+## Stylus
+
+*   [kobalab/Majiang](https://github.com/kobalab/Majiang) - HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
+
+## Objective-C
+
+*   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 
 ## Vim Script
 
@@ -107,8 +116,6 @@
 
 *   [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 
-*   [mattn/longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
-
 *   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 
 *   [owenrumney/squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets!
@@ -117,8 +124,6 @@
 
 *   [myzhan/goreplay-udp](https://github.com/myzhan/goreplay-udp) - goreplay-udp is copycat of goreplay, works on UDP tracffic.
 
-*   [xalanq/cf-tool](https://github.com/xalanq/cf-tool) - :bar\_chart: Codeforces CLI (Submit, Parse, Test, etc.). Support Contests, Gym, Groups, acmsguru, Windows, macOS, Linux, 7 MB
-
 *   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
 
 *   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
@@ -126,6 +131,10 @@
 *   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 
 *   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 基于 gin 的简易社区
+
+*   [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Perform TCP handshake without ACK in Go, useful for health check, that is SYN, SYN-ACK, RST.
+
+*   [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 
 ## Emacs Lisp
 
@@ -183,13 +192,13 @@
 
 *   [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
 
+*   [emacsorphanage/htmlize](https://github.com/emacsorphanage/htmlize) - Convert buffer text and decorations to HTML.
+
+*   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
+
 ## Kotlin
 
 *   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-## Zig
-
-*   [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ## Vue
 
@@ -203,7 +212,7 @@
 
 *   [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 
-*   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
+*   [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.
 
 *   [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
 
@@ -223,15 +232,11 @@
 
 *   [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 
-*   [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
-
 *   [mritd/shell\_scripts](https://github.com/mritd/shell_scripts) - 常用的一些 shell 脚本
 
 ## Rust
 
 *   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 
 ## CSS
 
@@ -246,8 +251,6 @@
 *   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表
 
 *   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
-
-*   [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 
 ## TeX
 
@@ -265,9 +268,9 @@
 
 *   [kiranandcode/emacs-viewer](https://github.com/kiranandcode/emacs-viewer) - A web frontend for your Org-files (100% faithful to GNU+Emacs!)
 
-## HTML
+## Makefile
 
-*   [hniksic/emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
+*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Thanks
 
