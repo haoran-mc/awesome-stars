@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
@@ -12,7 +13,6 @@
 *   [Stylus](#stylus)
 *   [Objective-C](#objective-c)
 *   [Vim Script](#vim-script)
-*   [Go](#go)
 *   [Emacs Lisp](#emacs-lisp)
 *   [Kotlin](#kotlin)
 *   [Vue](#vue)
@@ -27,6 +27,34 @@
 *   [Common Lisp](#common-lisp)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [icio/actiongraph](https://github.com/icio/actiongraph) - Go build actiongraph debug visualiser.
+
+*   [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
+
+*   [florianl/go-tc](https://github.com/florianl/go-tc) - traffic control in pure go - it allows to read and alter queues, filters and classes
+
+*   [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
+
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+
+*   [owenrumney/squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets!
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [myzhan/goreplay-udp](https://github.com/myzhan/goreplay-udp) - goreplay-udp is copycat of goreplay, works on UDP tracffic.
+
+*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
+
+*   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
+
+*   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
+
+*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 基于 gin 的简易社区
+
+*   [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Perform TCP handshake without ACK in Go, useful for health check, that is SYN, SYN-ACK, RST.
 
 ## Python
 
@@ -54,7 +82,7 @@
 
 *   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 
-*   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+*   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 
 *   [danvk/webtreemap](https://github.com/danvk/webtreemap) - CLI to quickly get a treemap visualization
 
@@ -107,34 +135,6 @@
 *   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
 
 *   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer. 最实用的vim配置🔥
-
-## Go
-
-*   [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
-
-*   [florianl/go-tc](https://github.com/florianl/go-tc) - traffic control in pure go - it allows to read and alter queues, filters and classes
-
-*   [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
-
-*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-
-*   [owenrumney/squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets!
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [myzhan/goreplay-udp](https://github.com/myzhan/goreplay-udp) - goreplay-udp is copycat of goreplay, works on UDP tracffic.
-
-*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
-
-*   [o1egl/govatar](https://github.com/o1egl/govatar) - Avatar generation library for GO language
-
-*   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
-
-*   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 基于 gin 的简易社区
-
-*   [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Perform TCP handshake without ACK in Go, useful for health check, that is SYN, SYN-ACK, RST.
-
-*   [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 
 ## Emacs Lisp
 
