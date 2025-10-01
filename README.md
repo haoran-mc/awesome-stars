@@ -4,12 +4,13 @@
 
 ## Table of Contents
 
+*   [C](#c)
+*   [Rust](#rust)
 *   [Go](#go)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
-*   [C](#c)
 *   [Stylus](#stylus)
 *   [Objective-C](#objective-c)
 *   [Vim Script](#vim-script)
@@ -18,19 +19,33 @@
 *   [Vue](#vue)
 *   [Lua](#lua)
 *   [Shell](#shell)
-*   [Rust](#rust)
 *   [CSS](#css)
 *   [Typst](#typst)
 *   [miscellaneous](#miscellaneous)
 *   [TeX](#tex)
 *   [Vim script](#vim-script-1)
 *   [Common Lisp](#common-lisp)
-*   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## C
+
+*   [iqiyi/dpvs](https://github.com/iqiyi/dpvs) - DPVS is a high performance Layer-4 load balancer based on DPDK.
+
+*   [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
+
+## Rust
+
+*   [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
 ## Go
 
+*   [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
+
 *   [icio/actiongraph](https://github.com/icio/actiongraph) - Go build actiongraph debug visualiser.
+
+*   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 
 *   [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 
@@ -53,8 +68,6 @@
 *   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 
 *   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 基于 gin 的简易社区
-
-*   [tevino/tcp-shaker](https://github.com/tevino/tcp-shaker) - :heartbeat: Perform TCP handshake without ACK in Go, useful for health check, that is SYN, SYN-ACK, RST.
 
 ## Python
 
@@ -82,8 +95,6 @@
 
 *   [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 
-*   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
-
 *   [danvk/webtreemap](https://github.com/danvk/webtreemap) - CLI to quickly get a treemap visualization
 
 *   [visprex/visprex](https://github.com/visprex/visprex) - Visualise your CSV files in seconds without sending your data anywhere
@@ -101,10 +112,6 @@
 *   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 
 *   [manateelazycat/popweb](https://github.com/manateelazycat/popweb) - Show popup web window for Emacs
-
-## C
-
-*   [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 
 ## Stylus
 
@@ -162,7 +169,7 @@
 
 *   [ginqi7/plantuml-emacs](https://github.com/ginqi7/plantuml-emacs) - A plantuml plugin for Emacs
 
-*   [drym-org/symex.el](https://github.com/drym-org/symex.el) - An intuitive way to edit Lisp symbolic expressions ("symexes") structurally in Emacs
+*   [drym-org/symex.el](https://github.com/drym-org/symex.el) - An expressive modal way to write code (esp. Lisp) in Emacs
 
 *   [lepisma/pile](https://github.com/lepisma/pile) - Personal website generator based on Org mode
 
@@ -193,8 +200,6 @@
 *   [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
 
 *   [emacsorphanage/htmlize](https://github.com/emacsorphanage/htmlize) - Convert buffer text and decorations to HTML.
-
-*   [condy0919/fanyi.el](https://github.com/condy0919/fanyi.el) - Not only English-Chinese translator for Emacs.
 
 ## Kotlin
 
@@ -234,10 +239,6 @@
 
 *   [mritd/shell\_scripts](https://github.com/mritd/shell_scripts) - 常用的一些 shell 脚本
 
-## Rust
-
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
 ## CSS
 
 *   [DogLooksGood/org-html-themify](https://github.com/DogLooksGood/org-html-themify) - Themify org-mode HTML export with installed color theme.
@@ -267,10 +268,6 @@
 ## Common Lisp
 
 *   [kiranandcode/emacs-viewer](https://github.com/kiranandcode/emacs-viewer) - A web frontend for your Org-files (100% faithful to GNU+Emacs!)
-
-## Makefile
-
-*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Thanks
 
