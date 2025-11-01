@@ -4,9 +4,10 @@
 
 ## Table of Contents
 
+*   [Emacs Lisp](#emacs-lisp)
+*   [Go](#go)
 *   [C](#c)
 *   [Rust](#rust)
-*   [Go](#go)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
@@ -14,7 +15,6 @@
 *   [Stylus](#stylus)
 *   [Objective-C](#objective-c)
 *   [Vim Script](#vim-script)
-*   [Emacs Lisp](#emacs-lisp)
 *   [Kotlin](#kotlin)
 *   [Vue](#vue)
 *   [Lua](#lua)
@@ -27,19 +27,69 @@
 *   [Common Lisp](#common-lisp)
 *   [Thanks](#thanks)
 
-## C
+## Emacs Lisp
 
-*   [iqiyi/dpvs](https://github.com/iqiyi/dpvs) - DPVS is a high performance Layer-4 load balancer based on DPDK.
+*   [szermatt/visual-replace](https://github.com/szermatt/visual-replace) - A nicer interface for query-replace on Emacs
 
-*   [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
+*   [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
 
-## Rust
+*   [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 
-*   [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
+*   [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
 
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+*   [Wilfred/ht.el](https://github.com/Wilfred/ht.el) - The missing hash table library for Emacs
+
+*   [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
+
+*   [jdtsmith/ultra-scroll](https://github.com/jdtsmith/ultra-scroll) - scroll Emacs like lightning
+
+*   [Fanael/highlight-quoted](https://github.com/Fanael/highlight-quoted) - Highlight Lisp quotes and quoted symbols
+
+*   [matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold) - Vim-like text folding for Emacs
+
+*   [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
+
+*   [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
+
+*   [justinbarclay/parinfer-rust-mode](https://github.com/justinbarclay/parinfer-rust-mode) - Simplifying how you write Lisp
+
+*   [ginqi7/plantuml-emacs](https://github.com/ginqi7/plantuml-emacs) - A plantuml plugin for Emacs
+
+*   [drym-org/symex.el](https://github.com/drym-org/symex.el) - An expressive modal way to write code (esp. Lisp) in Emacs
+
+*   [lepisma/pile](https://github.com/lepisma/pile) - Personal website generator based on Org mode
+
+*   [nschum/kill-ring-search.el](https://github.com/nschum/kill-ring-search.el) - Emacs: incremental search for the kill ring
+
+*   [jojojames/dired-sidebar](https://github.com/jojojames/dired-sidebar) - Sidebar for Emacs leveraging Dired
+
+*   [jart/emacs-copilot](https://github.com/jart/emacs-copilot) - Large language model code completion for Emacs
+
+*   [ginqi7/deno-bridge-jieba](https://github.com/ginqi7/deno-bridge-jieba) - deno-bridge-jieba
+
+*   [magnars/s.el](https://github.com/magnars/s.el) - The long lost Emacs string manipulation library.
+
+*   [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
+
+*   [minad/tempel](https://github.com/minad/tempel) - :classical\_building: TempEl - Simple templates for Emacs
+
+*   [emacscollective/borg](https://github.com/emacscollective/borg) - Assimilate Emacs packages as Git submodules
+
+*   [twlz0ne/with-proxy.el](https://github.com/twlz0ne/with-proxy.el) - Evaluate expressions with proxy
+
+*   [Theory-of-Everything/everforest-emacs](https://github.com/Theory-of-Everything/everforest-emacs) - everforest for emacs!
+
+*   [emacsmirror/org-contrib](https://github.com/emacsmirror/org-contrib) - Unmaintained add-ons for Org-mode
+
+*   [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
+
+*   [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
 
 ## Go
+
+*   [monsterxx03/gospy](https://github.com/monsterxx03/gospy) - Non-Invasive goroutine inspector
+
+*   [packetd/packetd](https://github.com/packetd/packetd) - 🚀 packetd is a eBPF-powered network traffic capture and analysis project.
 
 *   [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 
@@ -68,6 +118,18 @@
 *   [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 
 *   [hhandhuan/ku-bbs](https://github.com/hhandhuan/ku-bbs) - 基于 gin 的简易社区
+
+## C
+
+*   [iqiyi/dpvs](https://github.com/iqiyi/dpvs) - DPVS is a high performance Layer-4 load balancer based on DPDK.
+
+*   [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
+
+## Rust
+
+*   [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
+
+*   [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 
 ## Python
 
@@ -141,66 +203,6 @@
 
 *   [skywind3000/vim-init](https://github.com/skywind3000/vim-init) - 轻量级 Vim 配置框架，全中文注释
 
-*   [youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim) - Make your vim more power and much easer. 最实用的vim配置🔥
-
-## Emacs Lisp
-
-*   [jamescherti/minimal-emacs.d](https://github.com/jamescherti/minimal-emacs.d) - minimal-emacs.d - Better Emacs defaults and optimized startup, intended to serve as a solid foundation for your vanilla Emacs configuration
-
-*   [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
-
-*   [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
-
-*   [Wilfred/ht.el](https://github.com/Wilfred/ht.el) - The missing hash table library for Emacs
-
-*   [LionyxML/emacs-solo](https://github.com/LionyxML/emacs-solo) - A Pure Emacs (no external packages) IDE like configuration.
-
-*   [jdtsmith/ultra-scroll](https://github.com/jdtsmith/ultra-scroll) - scroll Emacs like lightning
-
-*   [Fanael/highlight-quoted](https://github.com/Fanael/highlight-quoted) - Highlight Lisp quotes and quoted symbols
-
-*   [matsievskiysv/vimish-fold](https://github.com/matsievskiysv/vimish-fold) - Vim-like text folding for Emacs
-
-*   [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
-
-*   [emacsorphanage/anzu](https://github.com/emacsorphanage/anzu) - Emacs Port of anzu.vim
-
-*   [justinbarclay/parinfer-rust-mode](https://github.com/justinbarclay/parinfer-rust-mode) - Simplifying how you write Lisp
-
-*   [ginqi7/plantuml-emacs](https://github.com/ginqi7/plantuml-emacs) - A plantuml plugin for Emacs
-
-*   [drym-org/symex.el](https://github.com/drym-org/symex.el) - An expressive modal way to write code (esp. Lisp) in Emacs
-
-*   [lepisma/pile](https://github.com/lepisma/pile) - Personal website generator based on Org mode
-
-*   [nschum/kill-ring-search.el](https://github.com/nschum/kill-ring-search.el) - Emacs: incremental search for the kill ring
-
-*   [jojojames/dired-sidebar](https://github.com/jojojames/dired-sidebar) - Sidebar for Emacs leveraging Dired
-
-*   [jart/emacs-copilot](https://github.com/jart/emacs-copilot) - Large language model code completion for Emacs
-
-*   [ginqi7/deno-bridge-jieba](https://github.com/ginqi7/deno-bridge-jieba) - deno-bridge-jieba
-
-*   [magnars/s.el](https://github.com/magnars/s.el) - The long lost Emacs string manipulation library.
-
-*   [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
-
-*   [minad/tempel](https://github.com/minad/tempel) - :classical\_building: TempEl - Simple templates for Emacs
-
-*   [emacscollective/borg](https://github.com/emacscollective/borg) - Assimilate Emacs packages as Git submodules
-
-*   [twlz0ne/with-proxy.el](https://github.com/twlz0ne/with-proxy.el) - Evaluate expressions with proxy
-
-*   [Theory-of-Everything/everforest-emacs](https://github.com/Theory-of-Everything/everforest-emacs) - everforest for emacs!
-
-*   [emacsmirror/org-contrib](https://github.com/emacsmirror/org-contrib) - Unmaintained add-ons for Org-mode
-
-*   [dgutov/diff-hl](https://github.com/dgutov/diff-hl) - Emacs package for highlighting uncommitted changes
-
-*   [justbur/emacs-vdiff](https://github.com/justbur/emacs-vdiff) - Like vimdiff for Emacs
-
-*   [emacsorphanage/htmlize](https://github.com/emacsorphanage/htmlize) - Convert buffer text and decorations to HTML.
-
 ## Kotlin
 
 *   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
@@ -262,8 +264,6 @@
 ## Vim script
 
 *   [eshion/vim-sftp-sync](https://github.com/eshion/vim-sftp-sync) - Automatic asynchronous SFTP,FTP,... for buffers in vim
-
-*   [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 
 ## Common Lisp
 
