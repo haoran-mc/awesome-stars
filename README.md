@@ -35,7 +35,7 @@
 
 *   [milanglacier/minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - 💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 
-*   [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
+*   [karthink/gptel](https://github.com/karthink/gptel) - A simple, extensible LLM client for Emacs
 
 *   [Wilfred/ht.el](https://github.com/Wilfred/ht.el) - The missing hash table library for Emacs
 
@@ -71,13 +71,13 @@
 
 *   [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
 
-*   [minad/tempel](https://github.com/minad/tempel) - :classical\_building: TempEl - Simple templates for Emacs
+*   [minad/tempel](https://github.com/minad/tempel) - :classical\_building: Tempel - Simple templates for Emacs
 
 *   [emacscollective/borg](https://github.com/emacscollective/borg) - Assimilate Emacs packages as Git submodules
 
 *   [twlz0ne/with-proxy.el](https://github.com/twlz0ne/with-proxy.el) - Evaluate expressions with proxy
 
-*   [Theory-of-Everything/everforest-emacs](https://github.com/Theory-of-Everything/everforest-emacs) - everforest for emacs!
+*   [theorytoe/everforest-emacs](https://github.com/theorytoe/everforest-emacs) - everforest for emacs!
 
 *   [emacsmirror/org-contrib](https://github.com/emacsmirror/org-contrib) - Unmaintained add-ons for Org-mode
 
